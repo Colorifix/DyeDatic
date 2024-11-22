@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "DyeDactic"
+version = "0.1.0"
+description = "Data and scripts essential for reproduction of Karlov et al."
+authors = ["Dmitry Karlov <dmitry.karlov@colorifix.com>"]
+license = "AGPL v3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = " >=3.11,<3.12"
+numpy = "1.25"
+rdkit = "^2024.3.5"
+loguru = "^0.7.2"
+pandas = "2.0"
+scikit-learn = "1.3.2"
+scipy = "1.10"
+matplotlib = "3.7"
+chemprop = { git = "https://github.com/KnathanM/chemprop.git", branch = "better_v1_v2_conversion" }
+hyperopt = "^0.2.7"
+jupyter = "^1.1.1"
+notebook = "^7.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,648 @@
+name,class,species,smiles,lambda_max,epsilon,solvent,citation,Comment
+"1-hydroxy-9,10-anthraquinone",anthraquinones,Morinda officinalis,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)O,408,,Toluene,https://www.sciencedirect.com/science/article/abs/pii/S0009261404006979,
+fragilin,anthraquinones,Anaptychia obscurata,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C(=C(C=C3C2=O)O)Cl)O,431; 460; 521,,Ethanol,https://doi.org/10.1016/S0040-4039(01)98909-9,probably dissociation causes red colour
+parietinic_acid_methyl_ester,anthraquinones,Senna didymobotrya,COC1=CC2=C(C(C3=C(C=C(C(OC)=O)C=C3O)C2=O)=O)C(O)=C1,435,,Acetonitrile,https://www.ajol.info/index.php/bcse/article/view/79293,
+fallacinal,anthraquinones,Xanthoria fallax,COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C=O,445,11220,Ethanol,https://doi.org/10.2298/JSC0008555M,
+actinorhodin,naphthoquinones,Streptomyces coelicolor,C[C@@H]1C2=C(C[C@@H](CC(=O)O)O1)C(=O)C3=C(C(=C(C=C3O)C4=CC(=C5C(=C4O)C(=O)C6=C(C[C@@H](CC(=O)O)O[C@@H]6C)C5=O)O)O)C2=O,526,,Ethanol,https://doi.org/10.1016/j.foodchem.2004.12.028,red in acid/ blue in alkaline
+adonixanthin,carotenoids,microbial,C=1(C(C[C@@H](C(C1C)=O)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C=2C(C[C@@H](CC2C)O)(C)C)\C)\C)/C)/C,458,,Methanol,https://doi.org/10.1128/jb.177.22.6575-6584.1995,large carotene derivative
+akashin_A,indole_heterocycles,Streptomyces sp. GW 48/1497,C[C@@H]1[C@@H](N)[C@H](O)[C@@H](O)[C@@H](N2C3=C(C(/C2=C4NC(C=CC(Cl)=C5)=C5C\4=O)=O)C=C(Cl)C=C3)O1,619,10232,Methanol,https://doi.org/10.1002/1521-3773(20020215)41:4<597::AID-ANIE597>3.0.CO;2-Z,anticancer activity
+albatrellin,benzoquinones,Alabtrellus flettii,C/C(C)=C\CC/C(C)=C/CC/C(C)=C/CC1=C(O)C(C(C)=C(C2=C(C=C(O2)/C=C(C)\C)CCC/C(C)=C/CC3=C(O)C=C(C=C3O)C)C1=O)=O,535,3162,Methanol,https://doi.org/10.1002/ejoc.200601022,
+albidin,benzoquinones,Penicillium albidum,CC1=C2C(=CO1)C=C(C(=O)C2=O)OC,434,3162,Methanol,https://doi.org/10.1039/P19860001145,not stable; in solution; antibiotic
+aleuriaxanthin,carotenoids,Aleuria aurantia,CC1=C(C(CCC1)(C)C)/C=C/C(=C\C=C\C(=C\C=C\C=C(\C)/C=C/C=C(\C)/C=C/C=C(/C)\CCC(C(=C)C)O)\C)/C,440; 463; 493,,Acetone,https://doi.org/10.1016/0031-9422(73)85094-0,large carotenoid
+quinizarin,anthraquinones,Rhizophora mucronata Lam,O=C1C2=C(C(O)=CC=C2O)C(C3=CC=CC=C31)=O,464; 539; 594,,DMSO,https://doi.org/10.1016/j.theochem.2007.08.032,539 -monoanionic; 586 - dianionic; pka1=10.15; pka2=13.19
+danthrone,anthraquinones,Chromolaenicola sp. (HL-114-33-R04),O=C1C2=C(C=CC=C2O)C(C3=CC=CC(O)=C31)=O,431,,DMSO,https://doi.org/10.1016/j.theochem.2007.08.032,500 - monoanionic; pka1 = 9.09
+alizarin,anthraquinones,Rubia tinctorum,Oc1ccc2C(=O)c3ccccc3C(=O)c2c1O,421,4900,Acetonitrile,https://doi.org/10.1016/j.theochem.2007.08.032 ; https://doi.org/10.1016/S1386-1425(97)00240-0,427 neutrall 523 - monanionic; 586 -dianionic in DMSO; pka1 = 6.73; pka2 = 12.08; 
+Alkannin_S-alpha-_methylbutyryl,naphthoquinones,Alkanna tinctoria,C/C(C)=C\C[C@@H](C1=CC(c2c(C1=O)c(O)ccc2O)=O)OC([C@@H](C)CC)=O,488; 520; 559,2454; 2951;1584,Acetonitrile,https://doi.org/10.1021/np010599w,
+aloe-emodin,anthraquinones,Aloe excelsa,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO,430,,Acetonitrile,https://doi.org/10.1562/0031-8655(2002)0750346PAPOAE2.0.CO2,
+stemphyperylenol,perylenequinones,Alternaria cassiae,C1[C@@H]([C@H]2C3=C4[C@@H]([C@H](CC(=O)C4=C(C=C3)O)O)C5=C2C(=C(C=C5)O)C1=O)O,340,3235,Methanol,https://doi.org/10.1016/0031-9422(89)85011-3,pKa=9.4
+altertoxin,perylenequinones,Alternaria cassiae,C1C[C@]2([C@@H]3[C@H](CC(=O)C4=C(C=CC(=C34)C5=C2C(=C(C=C5)O)C1=O)O)O)O,356,1700,Methanol,https://doi.org/10.1016/0031-9422(89)85011-3,
+alterperylenol,perylenequinones,Alternaria cassiae,C1[C@@H]([C@@H]2C3=C(C=CC(=C3C1=O)O)C4=C5[C@]2(C=CC(=O)C5=C(C=C4)O)O)O,364,2951,Methanol,https://doi.org/10.1016/0031-9422(89)85011-3,
+amitenone,benzoquinones,Suillus bovinus,CC(=CCC/C(=C/CC/C(=C/CC/C(=C/CC1=C(C(=O)C(=C(C1=O)O)CC2=C(C(=O)C(=C(C2=O)O)C/C=C(/CC/C=C(/CC/C=C(/CCC=C(C)C)\C)\C)\C)O)O)/C)/C)/C)C,410,467,Ethanol,https://doi.org/10.1016/S0040-4039(00)72286-6,
+ammosamide_a,indole_heterocycles,Streptomyces sp,CN1C2=C(C(=C(C3=C2C(=CC(=N3)C(=O)N)C1=S)N)Cl)N,584,5200,Methanol,https://doi.org/10.1002/anie.200804889,
+ammosamide_b,indole_heterocycles,Streptomyces sp,CN1C2=C(C(=C(C3=C2C(=CC(=N3)C(=O)N)C1=O)N)Cl)N,530,,Methanol,https://doi.org/10.1002/anie.200804889,oxigen analogue of the previous compound…
+ankaflavin,azaphilones,Monascus purpurea,CCCCCCCC(=O)[C@@H]1[C@H]2CC3=C(COC(=C3)/C=C/C)C(=O)[C@@]2(OC1=O)C,393,,Methanol,https://doi.org/10.1016/j.foodchem.2017.10.121,
+pelargonidin,anthocyanins,Eleocharis dulcis,C1=CC(=CC=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O,505,17800,Ethanol,https://doi.org/10.1021/jf981271k,0.1% HCl
+cyanidin,anthocyanins,Salix candida,C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O)O,510,24600,Ethanol,https://doi.org/10.1021/jf981271k,0.1% HCl
+delphinidin,anthocyanins,Hibiscus sabdariffa,C1=C(C=C(C(=C1O)O)O)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O,522,34700,Ethanol,https://doi.org/10.1021/jf981271k,0.1% HCl
+peonidin,anthocyanins,Vitis vinifera,COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O)O,511,37200,Ethanol,https://doi.org/10.1021/jf981271k,0.1% HCl
+malvidin_3-glucoside,anthocyanins,Vaccinium myrtillus,COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,529,,Methanol,https://doi.org/10.1021/jf960252c,spectrum+; 0.01% HCl
+malvidin,anthocyanins,Vaccinium myrtillus,COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O)O)O,520,37200,Ethanol,https://doi.org/10.1021/jf981271k,0.1% HCl
+Vitisin_A,anthocyanins,old wine,COC1=CC(C2=C(O[C@H]3[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O3)C4=C5C(C=C(C=C5OC(C(O)=O)=C4)O)=[O+]2)=CC(OC)=C1O,518,,Methanol,https://doi.org/10.1021/jf960252c,spectrum+; 0.01% HCl
+Vitisin_B,anthocyanins,old wine,COC1=CC(C2=C(O[C@H]3[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O3)C4=C5C(C=C(C=C5O2)O)=[O+]C=C4)=CC(OC)=C1O,498,,Methanol,https://doi.org/10.1021/jf960252c,spectrum+; 0.01% HCl
+anthracyclinone-blue_B,anthracyclinones,Streptomyces galilaeus,CCC1=C(C2=C(C3=C(C(=O)C4=C(C=CC=C4C3=O)O)C(=C2C(=C1)NCCO)O)O)C(=O)OC,608,28890,Methanol,https://doi.org/10.1002/jobm.3620310514,blue in acidic
+xanthopurpurin,anthraquinones,Rubia tinctoria,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC(=C3)O)O,412,14125,Methanol,https://doi.org/10.1016/j.chroma.2017.01.053,
+lucidin,anthraquinones,Rubia tinctoria,C1=CC=C2C(=C1)C(=O)C3=CC(=C(C(=C3C2=O)O)CO)O,410,4570,Methanol,https://doi.org/10.1016/j.chroma.2017.01.053,
+rubiadin,anthraquinones,Rubia tinctoria,CC1=C(C=C2C(=C1O)C(=O)C3=CC=CC=C3C2=O)O,410,28840,Methanol,https://doi.org/10.1016/j.chroma.2017.01.053,mutagenic
+"1,3-dihydroxy-2-methoxyanthraquinone",anthraquinones,Rubia tinctoria,O=C1C2=C(C=C(O)C(OC)=C2O)C(C3=CC=CC=C31)=O,412,,Ethanol,https://www.jstage.jst.go.jp/article/cpb1958/40/6/40_6_1504/_article/-char/ja/,
+neomedicamycin,anthraquinones,engineered product,O=C1C2=C(C=C(O)C=C2O)C(C3=CC=CC(OC)=C31)=O,428,,Water,https://doi.org/10.1371/journal.pbio.3000347,w/acn
+neochaetomicyn,anthraquinones,engineered product,O=C1C2=C(C=C(O)C(Cl)=C2O)C(C3=CC=CC(O)=C31)=O,432,,Water,https://doi.org/10.1371/journal.pbio.3000347,w/acn
+AQ256,anthraquinones,Photorhabdus luminescens,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,434,,Methanol,https://doi.org/10.1371/journal.pbio.3000347,
+astaxanthin,carotenoids,Haematococcus pluvialis,CC(\C=C\C=C(C)\C=C\C1=C(C)C(=O)[C@@H](O)CC1(C)C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C(=O)[C@@H](O)CC1(C)C,472,,Hexane,https://doi.org/10.1021/bi00842a042,
+erabulenol_A,phenalenones,Penicillium sp. FO-5637,C[C@H]1C(C2=C(C3=C4C(=C2O1)C(=CC(=O)C4=C(C(=C3O)OC)O)C)O)(C)C,372; 435,17400; 1100,Methanol,https://doi.org/10.7164/antibiotics.51.624,spectrum+
+erabulenol_B,phenalenones,Penicillium sp. FO-5637,CC1C(C2(C(=C3C(=C(C(=O)C4=C3C(=C(C(=C4O)OC)O)C2=O)CC5=C(C(=CC(=C5O)C(=O)C)C)O)C)O1)O)(C)C,407,25300,Methanol,https://doi.org/10.7164/antibiotics.51.624,spectrum+
+scleroderolide,phenalenones,Penicillium sp. FO-5637,C[C@H]1C(C2=C(O1)C3=C4C(=C2O)C(=O)C(=O)OC4=C(C=C3C)O)(C)C,404; 425,12800; 12800,Methanol,https://doi.org/10.7164/antibiotics.51.624,
+aulosirazole,anthraquinones,Aulosira fertilissima,COC1=NSC2=C1C(=O)C3=C(C2=O)C=CC=C3O,424,6300,Methanol,https://doi.org/10.1021/jo00100a032,536 in NaOH
+carbonarone_A,pyranones,Aspergillus carbonarius,C1=CC=C(C=C1)CC2=CC(=O)C(=CO2)C(=O)N,401,3981,Methanol,https://doi.org/10.1038/ja.2007.15,
+carbonarone_B,pyranones,Aspergillus carbonarius,C1=CC=C(C=C1)CC2=CC(=C(C(=O)N2)C=O)O,340,7413,Methanol,https://doi.org/10.1038/ja.2007.15,
+TMC-256C1,pyranones,Aspergillus niger,CC1=CC(=C2C(=CC3=CC(=O)C=C(C3=C2O1)OC)O)O,372,4786,Methanol,https://doi.org/10.7164/antibiotics.55.685,"all these things are toxic LD50 = 44 mg/kg (mice, ip)"
+TMC-256A1,pyranones,Aspergillus niger,CC1=CC(=C2C(=CC3=CC(=O)C=C(C3=C2O)OC)O1)O,405,6456,Methanol,https://doi.org/10.7164/antibiotics.55.685,
+fonsecin,pyranones,Aspergillus niger,CC1(CC(=O)C2=C(C3=C(C=C(C=C3C=C2O1)O)OC)O)O,400,8780,Ethanol,https://doi.org/10.1021/jo01012a027,
+rubrofusarin,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(C3=C(C=C(C=C3C=C2O1)OC)O)O,395,23442,Ethanol,https://doi.org/10.1021/jf60226a018,
+flavasperone,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(O1)C3=C(C=C(C=C3C=C2O)OC)OC,370,4900,Ethanol,https://doi.org/10.1021/jf60226a018,
+pyranonigrin_A,pyranones,Aspergillus niger,C/C=C/C1=C(C(=O)C2=C(O1)[C@H](NC2=O)O)O,316,13200,Methanol,https://doi.org/10.1021/np070175n,
+fonsecinone_A,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(C=C3C=C(C(=C(C3=C2O1)OC)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)C=C(O5)C)OC)O,398,7080,Ethanol,https://doi.org/10.1016/S0040-4020(01)88792-5,
+fonsecinone_C,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(C=C3C=C(C(=C(C3=C2O1)OC)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)CC(O5)(C)O)OC)O,398,7080,Ethanol,https://doi.org/10.1016/S0040-4020(01)88792-5,
+fonsecinone_B,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(O1)C=C3C=C(C(=C(C3=C2O)OC)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)CC(O5)(C)O)OC,403,9120,Ethanol,https://doi.org/10.1016/S0040-4020(01)88792-5,
+asnipyrone_B,pyranones,Aspergillus niger,C/C(=C\C(=C\C1=CC=CC=C1)\C)/C=C/C2=CC(=CC(=O)O2)OC,376,33885,Ethanol,https://doi.org/10.3987/COM-88-S88,
+asnipyrone_A,pyranones,Aspergillus niger,CC1=C(C=C(OC1=O)/C=C/C(=C/C(=C/C2=CC=CC=C2)/C)/C)OC,378,31625,Ethanol,https://doi.org/10.3987/COM-88-S88,
+asperenone,polyenes,Aspergillus niger,CCC(=O)/C=C/C=C/C(=C/C=C/C=C/C1=CC=CC=C1)/C,414; 392; 371,,Hexane,https://doi.org/10.1016/S0031-9422(00)91366-9,
+orlandin,pyranones,Aspergillus niger,CC1=CC(=C(C2=C1C(=CC(=O)O2)OC)C3=C(C=C(C4=C3OC(=O)C=C4OC)C)O)O,321,25880,Ethanol,https://doi.org/10.1021/jf60223a043,
+funalenone,phenalenones,Aspergillus niger,CC1=CC(=O)C2=C(C(=C(C3=C2C1=C(C=C3O)O)O)OC)O,368; 403,16200; 19800,Methanol, https://doi.org/10.7164/antibiotics.52.1095,
+nigerone,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(C3=C(C=C(C=C3OC)OC)C(=C2O1)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)C=C(O5)C)O,407,14125,Methanol,https://doi.org/10.1039/P19800002474,
+isonigerone,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(O1)C3=C(C=C(C=C3OC)OC)C(=C2O)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)C=C(O5)C,390,9550,Methanol,https://doi.org/10.1039/P19800002474,
+aurasperone_B,pyranones,Aspergillus niger,CC1(CC(=O)C2=C(O1)C=C3C=C(C(=C(C3=C2O)OC)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)CC(O5)(C)O)OC)O,410,13600,Ethanol,https://doi.org/10.1271/bbb1961.30.107,
+aurasperone_E,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(C3=C(C=C(C=C3OC)OC)C(=C2O1)C4=C(C5=C(C6=C(C=C5C=C4OC)OC(CC6=O)(C)O)O)OC)O,400,19500,Ethanol,https://doi.org/10.1021/jf60226a018,
+aurasperone_D,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(O1)C=C3C=C(C(=C(C3=C2O)OC)C4=C5C(=C(C6=C4C=C(C=C6O)OC)O)C(=O)C=C(O5)C)OC,380,7080,Ethanol,https://doi.org/10.1021/jf60226a018,
+isoaurosperone_A,pyranones,Aspergillus niger,CC1=CC(=O)C2=C(O1)C=C3C=C(C(=C(C3=C2O)OC)C4=C5C(=C(C6=C4C=C(C=C6OC)OC)O)C(=O)C=C(O5)C)OC,387,3467,Ethanol,https://doi.org/10.1021/jf60226a018,
+riccionidin_A,anthocyanins,Rhus javanica,OC1=C2C3=[O+]C4=CC(O)=C(O)C=C4C=C3OC2=CC(O)=C1,497,17378,Methanol,https://doi.org/10.1016/S0031-9422(99)00399-4,0.01 % HCl
+sphagnorubin_A,anthocyanins,Sphagnum plants,OC1=C(O)C=C2C=CC3=C4C=CC(C5=CC(O)=C(O)C=C5)=[O+]C4=CC(O)=C3C2=C1,547,75000,Methanol,https://doi.org/10.1016/S0021-9673(01)95399-3,0.01% HCl; spectrum+ ; stable blue in alkaline
+sphagnorubin_B,anthocyanins,Sphagnum plants,OC1=C(O)C=C2C=CC3=C4C=CC(C5=CC(O)=C(O)C=C5)=[O+]C4=CC(OC)=C3C2=C1,540,75000,Methanol,https://doi.org/10.1016/S0021-9673(01)95399-3,0.01% HCl; spectrum+ ; fades to chalcone in alkaline
+sphagnorubin_C,anthocyanins,Sphagnum plants,OC1=C(O)C=C2C=CC3=C4C=CC(C5=CC(OC)=C(O)C=C5)=[O+]C4=CC(OC)=C3C2=C1,537,75000,Methanol,https://doi.org/10.1016/S0021-9673(01)95399-3,0.01% HCl; fades to chalcone in alkaline
+rosacyanin_B,anthocyanins,Rosa hybrida,OC(C(O)=C1O2)=CC(C(O3)=O)=C1C4=C3C(C5=CC(O)=C(O)C=C5)=[O+]C6=CC(O)=CC2=C46,531,16000,Ethanol,https://doi.org/10.1016/S0040-4039(02)00305-2,spectrum+ ; unstable in neutral solution
+aurasperone_A,pyranones,Aspergillus niger ATCC 1015,O1C2=C(C3=C(OC)C=4C(C=C3OC)=CC=5OC(=CC(=O)C5C4O)C)C6=C(C(O)=C2C(=O)C=C1C)C(OC)=CC(OC)=C6,400,4786,Ethanol,https://doi.org/10.1021/jf60226a018,
+bracteatin,aurones,Helichrysum bracteatum,C1=C(C=C(C(=C1O)O)O)/C=C\2/C(=O)C3=C(C=C(C=C3O2)O)O,403,,Ethanol,https://doi.org/10.1016/S0031-9422(00)84856-6,
+leptosidin,aurones,Antirrhinum majus,COC1=C(C=CC2=C1O/C(=C\C3=CC(=C(C=C3)O)O)/C2=O)O,405,28183,Ethanol,https://doi.org/10.1021/ja01244a050,
+maritimetin,aurones,Coreopsis maritima,C1=CC(=C(C=C1/C=C\2/C(=O)C3=C(O2)C(=C(C=C3)O)O)O)O,413,,Ethanol,https://doi.org/10.1021/ja01585a033,spectrum+
+cephalocerone,aurones,Cephalocereus senilis,C1OC2=C(O1)C3=C(C=C2O)O/C(=C\C4=CC=CC=C4)/C3=O,440,,Methanol,https://doi.org/10.1016/S0031-9422(00)95189-6,MeOH - NaOMe: 483
+pauciaurone_A,aurones,Garcinia paucinervis,O=C1C2=CC(O)=C(OC)C=C2O/C1=C\C3=CC=C(C/C=C(C)/C)C=C3,348,2238,Methanol,https://doi.org/10.1007/s10600-014-1144-0,
+artocarnin_A,flavonoids,Artocarpus nigrifolius,O=C1C2=C(O)C3=C(OC(C)(C)C=C3)C(CC(O)C(C)=C)=C2OC4=C1C(/C=C(C)/C)OC5=C4C=C(O)C(O)=C5,400,6760,Methanol,https://doi.org/10.1248/cpb.c17-00958,
+eleocharin_A,flavonoids,Eleocharis tuberosa,O=C1C2=C(O)C3=C(OC(C)(C)C=C3)C=C2OC(C4=CC=C(O)C(O)=C4)=C1,352,14125,Methanol,https://doi.org/10.1016/j.foodchem.2014.04.103,spectrum+
+eleocharin_F,flavonoids,Eleocharis tuberosa,O=C1C2=C(O3)C(C=CC3(C)C)=C(OC)C=C2O/C1=C\C4=CC=C(O)C(O)=C4,406,3388,Methanol,https://doi.org/10.1016/j.foodchem.2014.04.103,spectrum+
+rengasin,aurones,Melanorhea sp.,COC1=CC(O)=CC2=C1C(/C(O2)=C/C3=CC=C(O)C(O)=C3)=O,403,40000,Methanol,https://doi.org/10.1039/jr9620001192,
+damaurone_E,aurones,Rosa damascena,OC(C=C1)=CC=C1/C=C(C2=O)\OC3=C2C=CC4=C3C(C=C(C)CO4)=O,368,1230,Methanol,https://doi.org/10.1002/hlca.201300336,
+damaurone_D,aurones,Rosa damascena,CC1(CCC2=C(O1)C=CC3=C2O/C(=C\C4=CC=C(C=C4)O)/C3=O)C,344,1318,Methanol,https://doi.org/10.1002/hlca.201300336,
+damaurone_C,aurones,Rosa damascena,CC1(C)CC(C2=C(C=CC3=C2O/C(C3=O)=C\C4=CC=C(O)C=C4)O1)=O,350,1905,Methanol,https://doi.org/10.1002/hlca.201300336,
+damaurone_B,aurones,Rosa damascena,O=C1OC2=CC(O)=C(O)C=C2/C1=C/C3=CC=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C=C3,390,2089,Methanol,https://doi.org/10.3987/COM-12-12642,
+damaurone_A,aurones,Rosa damascena,O=C(C1=CC(O)=C(OC)C=C1O/2)C2=C/C3=CC=C(C(C)=O)C=C3,352,1905,Methanol,https://doi.org/10.3987/COM-12-12642,
+hamilcone,chalcones,Uvaria hamiltonii,COC1=C(C(=C(C(=C1)O)C(=O)/C=C/C2=CC(=C(C=C2)O)O)OC)OC,387,23442,Methanol,https://doi.org/10.1021/np9703609,
+hamiltrone,aurones,Uvaria hamiltonii,COC1=C(C(=C2C(=C1)O/C(=C\C3=CC(=C(C=C3)O)O)/C2=O)OC)OC,405,21379,Methanol,https://doi.org/10.1021/np9703609,
+hispidol,aurones,Soja hispida,C1=CC(=CC=C1/C=C\2/C(=O)C3=C(O2)C=C(C=C3)O)O,386,,Ethanol,https://doi.org/10.1016/S0031-9422(00)82160-3,EtOH - NaOH: 454 
+sulfuretin,aurones,Rhus verniciflua,C1=CC(=C(C=C1/C=C\2/C(=O)C3=C(O2)C=C(C=C3)O)O)O,399,,Ethanol,https://doi.org/10.1021/jo01118a018,spectrum+
+aureusidin,aurones,Coreopsis grandiflora,C1=CC(=C(C=C1C=C2C(=O)C3=C(C=C(C=C3O2)O)O)O)O,398,27524,Methanol,https://doi.org/10.1021/ja01244a050,
+aurofusarin,naphthoquinones,Hypomyces rosellus,CC1=CC(=O)C2=C(O1)C=C3C(=C2O)C(=O)C(=C(C3=O)OC)C4=C(C(=O)C5=CC6=C(C(=O)C=C(O6)C)C(=C5C4=O)O)OC,388,8710,Ethanol,https://doi.org/10.1039/J39660002237,
+averythrin,anthraquinones,Aspergillus versicolor,CCCC/C=C/C1=C(C=C2C(=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)O)O,453,9000,Methanol,https://doi.org/10.1039/JR9650003666,
+bacterioruberin,carotenoids,Halobacterium salinarum,C\C(\C=C\C=C(/C)\C=C\C=C(/C)\C=C\[C@H](CCC(C)(C)O)C(C)(C)O)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H](CCC(C)(C)O)C(C)(C)O,468; 492; 524,,Acetonitrile,https://doi.org/10.1002/btpr.2248,large carotenoid
+bactobilin,pyrrol_heterocycles,Clostridium tetanomorphum,COC(CCC1=C(NC(/C=C2C(CCC(OC)=O)=C(C(N/2)=O)CC(OC)=O)=C1CC(OC)=O)/C=C3C(CCC(OC)=O)=C(C(/C=C4C(CC(OC)=O)=C(C(N/4)=O)CCC(OC)=O)=N\3)CCC(OC)=O)=O,633,,Chloroform,https://doi.org/10.1021/jo00365a028,
+benthocyanin_a,phenazines,Streptomyces pruni-color,C/C(CC/C=C(C)/C)=C\CN1C(C(C=C2O3)=NC4=C(C(O)=O)C=CC=C41)=CC2=C(C5=CC=CC=C5)C3=O,638,16200,Methanol,https://pubs.acs.org/doi/pdf/10.1021/jo00067a069,618/638 :acid/base
+benthocyanin_b,phenazines,Streptomyces pruni-color,C/C(CC/C=C(C)/C)=C\CN1C(C(C(C(O)=O)=C2O3)=NC4=CC=CC=C41)=CC2=C(C5=CC=CC=C5)C3=O,632,16400,Methanol,https://pubs.acs.org/doi/pdf/10.1021/jo00067a069,615/632; alkaline/acid
+benthocyanin_c,phenazines,Streptomyces pruni-color,C/C(CC/C=C(C)/C)=C\CN1C(C(NC2=CC=CC=C21)=C(C(O)=O)C/3=O)=CC3=C(C4=CC=CC=C4)\C#N,410;430;665,5300;6400;13100,Methanol,https://pubs.acs.org/doi/pdf/10.1021/jo00067a069,535/665 alkaline;acid
+berberine,isoquinoline_heterocycles,Coptis japonica,COc1ccc2cc3-c4cc5OCOc5cc4CC[n+]3cc2c1OC,429,4570,Methanol,https://doi.org/10.1039/b822363g,
+alpha-carotene,carotenoids,Daucus carota,CC(/C=C/C=C(/C=C/C1=C(CCCC1(C)C)C)C)=C\C=C\C=C(\C=C\C=C(\C=C\[C@@]2([H])C(C)=CCCC2(C)C)C)C,422; 446; 474,182; 273; 249,Hexane,https://doi.org/10.1104/pp.17.3.331,
+beta-cryptoxantin,carotenoids,Rhodoturula taiwaniensis,CC(/C=C/C=C(/C=C/C1=C(CC(O)CC1(C)C)C)C)=C\C=C\C=C(\C=C\C=C(\C=C\C2=C(CCCC2(C)C)C)C)C,451; 478,246; 217,Hexane,https://doi.org/10.1104/pp.17.3.331,
+beta-carotene,carotenoids,Daucus carota,CC(\C=C\C=C(C)\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,450; 478,257; 228,Hexane,https://doi.org/10.1104/pp.17.3.331,
+oxo-prebikaverin,naphthoquinones,Fusarium oxysporum,O=C1C2=C(C=C(O)C=C2C)OC(C1=C3O)=CC4=C3C(C=C(O)C4=O)=O,441,,Acetonitrile,https://doi.org/10.1186/s13568-019-0912-4,spectrum+
+me-oxo-prebikaverin,naphthoquinones,Fusarium oxysporum,O=C1C2=C(C=C(OC)C=C2C)OC(C1=C3O)=CC4=C3C(C=C(O)C4=O)=O,440,,Acetonitrile,https://doi.org/10.1186/s13568-019-0912-4,spectrum+
+prebikaverin,naphthoquinones,Fusarium oxysporum,O=C1C2=C(C=C(O)C=C2C)OC3=CC4=CC(O)=CC(O)=C4C(O)=C31,438,,Acetonitrile,https://doi.org/10.1186/s13568-019-0912-4,spectrum+
+dinorbikaverin,naphthoquinones,Fusarium oxysporum,O=C1C2=C(C=C(O)C=C2C)OC(C1=C3O)=C(O)C4=C3C(C=C(O)C4=O)=O,457,,Acetonitrile,https://doi.org/10.1186/s13568-019-0912-4,spectrum+
+norbikaverin,naphthoquinones,Fusarium oxysporum,CC1=CC(=CC2=C1C(=O)C3=C(O2)C(=O)C4=C(C3=O)C(=CC(=C4O)O)O)OC,509,,Acetonitrile,https://doi.org/10.1186/s13568-019-0912-4,spectrum+
+bikaverin,naphthoquinones,Fusarium oxysporum,COC1=CC(=O)c2c(O)c3c(oc4cc(OC)cc(C)c4c3=O)c(O)c2C1=O,521,8400,Chloroform,https://doi.org/10.1039/J39710002786,507 (acn); spectrum+
+bilirubin,pyrrol_heterocycles,Homo sapiens,CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)/C=C\3/C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)/C=C\4/C(=C(C(=O)N4)C=C)C,453,60000,Chloroform,https://doi.org/10.1042/bj1830139,
+biliverdin,pyrrol_heterocycles,Homo sapiens,CC1=C(CCC(O)=O)\C(/N=C1/C=C1NC(=O)C(C=C)=C/1C)=C\c1[nH]c(\C=C2NC(=O)C(C)=C/2C=C)c(C)c1CCC(O)=O,674,12200,Water,https://link.springer.com/article/10.1007/BF00809769,
+bisanhydrobacterioruberin,carotenoids,Haloarcula japonica,CC(C)=CC[C@@H](\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C(\C)=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C\C=C(/C)\C=C\[C@H](CC=C(C)C)C(C)(C)O)C(C)(C)O,456; 482; 521,,Methanol,https://doi.org/10.1007/s11274-011-0993-y,all trans; m/mtbe
+bostrycoidin,pyridine_heterocycles,Fusarium bostrycoides,CC1=CC2=C(C=N1)C(=O)C3=C(C2=O)C(=C(C=C3O)OC)O,497,7943,Ethanol,https://doi.org/10.7164/antibiotics.42.1189,
+brazilein,benzoquinones,Caesalpinia sappan,C=12C(=CC(O)=CC1)OC[C@]3(C2=C4C(C3)=CC(=O)C(=C4)O)O,448,4680,Methanol,https://doi.org/10.1021/jp404789f,pKa1 =6.5; pKa2=9.4; Brazilein (2-) = 540 nm
+rhizocarpic_acid,pulvinones,Acarospora schleicheri,COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)/C(=C\2/C(=C(C(=O)O2)C3=CC=CC=C3)O)/C4=CC=CC=C4,370,53000,Acetonitrile,https://doi.org/10.1016/S1011-1344(02)00264-6,pKa = 5.1
+calycin,pulvinones,Pseudocyphellaria crocata,C1=CC=C(C=C1)C2=C(/C(=C\3/C4=CC=CC=C4OC3=O)/OC2=O)O,420,12400,Acetonitrile,https://doi.org/10.1016/S1011-1344(02)00264-6,pKa =4.9
+candidine,indole_heterocycles,Isatis tinctoria,C1=CC2=C(C=C1)N/C(=C\3/C4=C(C=CC=C4)N5C3=NC6=C(C=CC=C6)C5=O)/C2=O,538; 573,2137; 2818,Chloroform,https://doi.org/10.1016/0031-9422(89)80390-5,
+canthaxanthin,carotenoids,Micrococcus roseus,CC1=C(C(CCC1=O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C(=O)CCC2(C)C)C)\C)\C)/C)/C,466,123000,Hexane,https://doi.org/10.1002/hlca.19570400623,all trans; no vibration structure
+demethylstreptonigrin,quinoline_heterocycles,Streptomyces albus,CC1=C(C(=C(N=C1C(=O)O)C2=NC3=C(C=C2)C(=O)C(=C(C3=O)N)OC)N)C4=C(C(=C(C=C4)O)OC)O,385,12300,Methanol,https://doi.org/10.7164/antibiotics.39.1013,
+catenarin,anthraquinones,Bipolaris sorokiniana,CC1=CC(=C2C(=C1O)C(=O)C3=C(C2=O)C(=CC(=C3)O)O)O,490; 510; 524,,Ethanol,https://doi.org/10.1016/S0953-7562(09)81142-8,spectrum+; vibrational structure
+isophleichrome,perylenequinones,Cladosporium phlei,C[C@@H](CC1=C2C3=C(C(=C(C4=C3C(=C5C2=C(C(=O)C=C5OC)C(=C1OC)O)C(=CC4=O)OC)O)OC)C[C@H](C)O)O,350; 475; 584,5000; 24100; 12100,Ethanol,https://doi.org/10.1039/P19850001387,reversible reaction with oxygen
+"9,14-diacetylxanosporolactone",perylenequinones,Xanthomonas campestris,C[C@@H]1CC2=C(OC3=C4C2=C5C(C[C@H](OC(C)=O)C)=C(OC)C(OC(C)=O)=C6C5=C7C4=C(OCOC7=CC6=O)C=C3O)C(O1)=O,401; 535,,Methanol,https://doi.org/10.1016/S0031-9422(02)00517-4,
+xanosporolactone,perylenequinones,Xanthomonas campestris,C[C@@H]1CC2=C(C(=O)O1)OC3=C4C2=C5C(=C(C(=C6C5=C7C4=C(C=C3O)OCOC7=CC6=O)O)OC)C[C@@H](C)O,445; 580,3162; 1995 ,Methanol,https://doi.org/10.1016/S0031-9422(02)00517-4,mixture of atropoisomers; non-toxic
+gymnochrome_B,naphthodianthrones,Gymnocrinus richeri,CCC[C@H](CC1=C2C3=C(C(=C(C4=C(C5=C6C(=C7C8=C(C2=C(C(=C1Br)O)C(=O)C8=C(C(=C7O)Br)O)C6=C34)C(=O)C=C5O)O)O)Br)C[C@H](C)O)O,550; 553; 597,12700; 17000; 33800,Methanol,https://doi.org/10.1021/jo00024a016,
+4-aminocarminic_acid,anthraquinones,semisynthetic,CC1=C2C(=CC(=C1C(=O)O)O)C(=O)C3=C(C2=O)C(=C(C(=C3N)O)[C@@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,527; 555,4365;  4466,Methanol,https://doi.org/10.3358/shokueishi.43.18,spectrum+ 
+1-aminopurpurin,anthraquinones,semisynthetic,O=C(C1=C2C(N)=C(O)C=C1O)C3=CC=CC=C3C2=O,517; 549,6760;  6025,Methanol,https://doi.org/10.3358/shokueishi.43.18,spectrum+ 
+gymnochrome_A,naphthodianthrones,Gymnocrinus richeri,CCCC(CC1=C2C3=C(C(=C(C4=C3C5=C6C2=C(C(=C1Br)O)C(=O)C7=C(C(=C(C(=C67)C8=C5C(=C(C(=C8O)Br)O)C4=O)O)Br)O)O)Br)CC(C)O)O,485; 553;596,13800; 19800; 33900,Methanol,https://doi.org/10.1021/jo00024a016,
+cercosporin,perylenequinones,Cercospora hayii,CC(CC1=C2C3=C(C(=C(C4=C3C5=C6C2=C(C(=O)C=C6OCOC5=CC4=O)C(=C1OC)O)O)OC)CC(C)O)O,470; 475,38122;  39244,Methanol,https://doi.org/10.1021/ja01578a038,has another atropisomers; MeOH + NaOH: 472 (33287); 610 (14155); 635 (17169); 645 (22144)
+chloronatronochrome,polyenes,Thialkalivibrio versutus strain ALJ 15,CC1=C(C=CC(=C1O)Cl)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)OC,407; 426; 442,,Methanol,https://doi.org/10.1016/j.tetlet.2004.09.073,m/h2o (4:1)
+demethylaeruginosin_B,phenazines,pseudomonas sp.,NC1=CC2=NC3=CC(S([O-])(=O)=O)=CC(C(O)=O)=C3N=C2C=C1,375; 538,,Water,https://doi.org/10.1039/J39700002447,0.5M HC; 0.5NaOH - 370; 470 
+piceamycin,polyenes,Streptomyces sp. GB 4-2,CC1CNC(=O)/C=C\C=C/C=C\C2(CC(=O)C(=C2C(=O)/C=C\C=C/C=C\C=C/C=C1)O)C,410,,Methanol,https://doi.org/10.1038/ja.2009.64,spectrum+  
+SB212021,phenazines,Streptomyces sp. HIL Y-9031725,COC(=O)C1=C(C=CC2=NC3=C(C=CC=C3N=C21)C(=O)O)O,369; 431,5938; 2582,Methanol,https://doi.org/10.7164/antibiotics.48.1081,MeOH + NaOH: 370 (4000); 520 (2528)
+"3,6-dimethoxyphenazinecarboxylic_acid_methyl_ester",phenazines,Streptomyces tanashiensiszaomyceticus,O=C(OC)C1=C2N=C3C=CC=C(OC)C3=NC2=CC(OC)=C1,377; 425,,Methanol,https://doi.org/10.7164/antibiotics.37.1313,
+phenacein,phenazines,Streptomyces tanashiensiszaomyceticus,C1=CC2=NC3=C(C=C(C=C3N=C2C(=C1)O)O)C(=O)O,385; 460,,Methanol,https://doi.org/10.7164/antibiotics.37.1313,MeOH + NaOH: 420; 530
+lomofungin,phenazines,Streptomyces lomondensis,O=CC1=C(O)C(C)=C(O)C2=C1N=C3C(O)=CC=C(C(OC)=O)C3=N2,372; 441,8893; 4556,Methanol,https://doi.org/10.7164/antibiotics.22.126,spectrum+; MeOH + NaOH: 342 (34945); 478 (4735)
+SB212305,phenazines,Streptomyces sp. HIL Y-9031725,CC(=O)NC(CSC1=CC2=NC3=C(C=CC=C3N=C2C(=C1O)C(=O)OC)C(=O)O)C(=O)O,378; 440,7084; 2917,Methanol,https://doi.org/10.7164/antibiotics.48.1081,MeOH + NaOh: 370 (2917); 515 (2500)
+phencomycin,phenazines,Streptomyces Species HIL Y-9031725,COC(=O)C1=CC=CC2=NC3=C(C=CC=C3N=C21)C(=O)O,368,,Methanol,https://doi.org/10.7164/antibiotics.48.1353,
+diphenazithionin,phenazines,Streptomyces griseus ISP 5236,COC(=O)C1=CC(=CC2=NC3=C(C=CC=C3N=C12)C(=O)O)SC4=C(C5=NC6=C(C=CC=C6N=C5C(=C4)C(=O)OC)C(=O)O)O,375; 442,,Methanol,https://doi.org/10.1016/S0040-4039(96)02190-9,
+PD116152,phenazines,Streptomyces sp,CC1=C(O)C(N=C2C(C(OC)=O)=CC=C(C2=N3)O)=C3C(C=O)=C1O,385,6070,Methanol,https://doi.org/10.7164/antibiotics.39.800,MeOH+KOH: 415 (5080); 440 (4690)
+griseolutein_B,phenazines,Sreptomyces griseoluteus,COC1=CC=C(CO)C2=C1NC3=C(C(O)=O)C=CC=C3N2C(CO)=O,344,7406,Methanol,https://doi.org/10.1248/cpb.6.539,spectrum+
+endophenazin_A,phenazines,Streptomyces anulatus,CC(=CCC1=C2C(=CC=C1)N=C3C=CC=C(C3=N2)C(=O)O)C,365,11481,Methanol,https://doi.org/10.7164/antibiotics.55.801,
+endophenazin_B,phenazines,Streptomyces anulatus,CC(=CCC1=CC(=O)C=C2C1=NC3=C(C=CC=C3N2C)C(=O)O)C,391; 482,10964; 5370,Methanol,https://doi.org/10.7164/antibiotics.55.801,MeOH - NaOH: 374 (7244); 516 (7762)
+endophenazin_C,phenazines,Streptomyces anulatus,O=C(O)C1=C2C(N(C)C3=C(C(C/C=C(C)/C)=CC=C3)N2)=CC=C1,426,6165,Methanol,https://doi.org/10.7164/antibiotics.55.801,MeOH - NaOH: 387 (5248)
+endophenazin_D,phenazines,Streptomyces anulatus,O=C(OCC(O)=O)C1=C2C(NC3=C(C=CC=C3)N2)=CC=C1,351,4265,Methanol,https://doi.org/10.7164/antibiotics.55.801,
+esmeraldin_B,phenazines,Streptomyces antibioticus,CC1C2=C3C(=CC=C2)NC4=C(C=CC=C4N3C5=C1C6=NC7=C(C=CC=C7N=C6C(=C5)C(=O)O)C(C)OC(=O)C8=C(C=CC=C8O)C)C(=O)O,400; 658,10000; 7120,Ethanol,https://doi.org/10.1002/hlca.19880710824,EtOH - NaOH: 588 (9400); 400 (10000)
+fredericamycin_A,naphthoquinones,Sreptomyces griseus,C/C=C/C=C/C1=CC2=CC3=C([C@]4(C(C5=C(O)C(C(C=C(OC)C6=O)=O)=C6C(O)=C5C4=O)=O)CC3)C(O)=C2C(N1)=O,372; 392; 504,,Water,https://doi.org/10.7164/antibiotics.57.823,spectrum+; w/acn
+fredericamycin_B,naphthoquinones,Sreptomyces griseus,CC=CC=CC1=CC2=CC3=C(C4=C(CC3)C(=C5C(=C4O)C(=O)C6=C(C5=O)C(=C(C=C6O)OC)O)O)C(=C2C(=O)N1)O,387; 510; 548; 586,,Water,https://doi.org/10.7164/antibiotics.57.823,spectrum+; w/acn
+fredericamycin_C,naphthoquinones,Sreptomyces griseus,C/C=C/C=C/C(=O)CC1=C(C(=C2C(=C1)CCC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC(=C5O)OC)O)O)O)C(=O)O,537; 560; 574,,Water,https://doi.org/10.7164/antibiotics.57.823,spectrum+; w/acn
+benaphthamycin,angucyclinones,Streptomyces sp. HKI-0057,C[C@H]1[C@@H](C2=C(C(=C3C(=C2)CC(C4=C3C(=C5C(=C4OC)C(=O)C6=C(C5=O)C=CC=C6O)O)O)O)C(=O)O1)O,475,14000,Methanol,https://doi.org/10.7164/antibiotics.50.791,
+griseolutein_A,phenazines,Sreptomyces griseoluteus,COC1=CC=C(C2=NC3=CC=CC(=C3N=C12)C(=O)O)COC(=O)CO,368,14811,Methanol,https://doi.org/10.11554/antibioticsa.12.2_55,spectrum+
+tubermycin,phenazines,Streptomyces misakiensis,O=C(O)C1=CC=CC2=C1N=C3C=CC=CC3=N2,364,16769,Methanol,https://doi.org/10.11554/antibioticsa.11.6_264,
+aeruginosin_B,phenazines,Pseudomonas aeruginosa,C[N+]1=C(C=C(C=C2)N)C2=NC3=C(C(O)=O)C=C(S([O-])(=O)=O)C=C13,390; 522,11220; 13803,Water,https://doi.org/10.1039/J39690002517,no pH dependence; unstable in alkali;
+aeruginosin_A,phenazines,Pseudomonas aeruginosa,C[N+]1=C(C=C(C=C2)N)C2=NC3=C(C(O)=O)C=CC=C13,396; 515,11748; 14125,Water,https://doi.org/10.1039/J39690002514,no pH dependence; unstable in alkali;
+demethylspheroiden,carotenoids,Erwinia uredovora,CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/CC(C)(C)O)/C)/C)/C)C,429; 454;483,,Acetonitrile,https://doi.org/10.1016/S0168-1656(97)00151-X,acn/m/w
+chloroxanthin,carotenoids,Erwinia uredovora,CC(=CCC/C(=C/CC/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/CCCC(C)(C)O)/C)/C)/C)C,417; 439; 469,,Acetonitrile,https://doi.org/10.1016/S0168-1656(97)00151-X,spectrum+; acn/m/w
+chrysophanol,anthraquinones,Aloe vera,Cc1cc(O)c2C(=O)c3c(O)cccc3C(=O)c2c1,428,,Methanol,http://www.sscm.kg.ac.rs/jsscm/downloads/Vol2No2/Electronic_Absorption_Spectra_of_Substituted_Anthraquinones_and_Their.pdf,
+citrinin,azaphilones,Monascus purpureus,C[C@@H]1[C@H](OC=C2C1=C(C(=C(C2=O)C(=O)O)O)C)C,314,,Methanol,https://doi.org/10.1016/0168-1605(94)00167-5,spectrum+  
+deoxycochliodinol,benzoquinones,semisynthetic,C/C(C)=C\CC1=CC2=C(NC=C2C3=C(O)C(O)=C(C4=CNC5=C4C=C(C/C=C(C)\C)C=C5)C3=O)C=C1,475,7585,Methanol,https://doi.org/10.1139/v75-102,MeOH - NaOH: 445 (6456)
+cochliodinone,benzoquinones,Chaetomium globosum ,C/C(C)=C\CC1=CC2=C(NC=C2C3=C(O4)C(OC3=O)=C(C5=CNC6=C5C=C(C/C=C(C)\C)C=C6)C4=O)C=C1,470,22387,Methanol,https://doi.org/10.1139/v75-102,
+cochliodinol_diacetate,benzoquinones,semisynthetic,C/C(C)=C\CC1=CC2=C(NC=C2C3=C(OC(C)=O)C(C(C4=CNC5=C4C=C(C/C=C(C)\C)C=C5)=C(OC(C)=O)C3=O)=O)C=C1,498,8511,Methanol,https://doi.org/10.1139/v75-102,
+cochliodinol,benzoquinones,Chaetomium globosum ,CC(=CCC1=CC2=C(C=C1)NC=C2C3=C(C(=O)C(=C(C3=O)O)C4=CNC5=C4C=C(C=C5)CC=C(C)C)O)C,475,2818,Methanol,https://doi.org/10.1139/v75-102,pKa=6.7
+corticin_A,benzoquinones,Corticium caeruleum,COC1=CC2=C(C=C1O)OC3=C(C4=C(C(=C23)O)OC5=CC(=C(C=C54)O)OC)OC,565,6900,Ethanol,https://doi.org/10.1071/CH9760179,oxydized or alkaline?
+crocin-1,carotenoids,Crocus sativus,C\C(\C=C\C=C(/C)C(=O)O[C@@H]1O[C@H](CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H](O)[C@H]1O)=C/C=C/C=C(\C)/C=C/C=C(\C)C(=O)O[C@@H]1O[C@H](CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H](O)[C@H]1O,440,,Water,https://doi.org/10.1016/0304-3835(95)04067-6, (probably remove glucose residues) 
+dinor-curcumin,curcuminoids,Curcuma longa,OC1=C(O)C=C(/C=C/C(/C=C(O)/C=C/C2=CC(O)=C(C=C2)O)=O)C=C1,432,51818,Ethanol,https://doi.org/10.1016//j.bmc.2009.12.075,
+curcumin,curcuminoids,Curcuma longa,OC1=C(OC)C=C(/C=C/C(/C=C(O)/C=C/C2=CC(OC)=C(C=C2)O)=O)C=C1,425,61864,Ethanol,https://doi.org/10.1186/s40064-016-2812-2,
+cycloprodigiosin,pyrrol_heterocycles,Beneckea gazogenes,CC1CCCC2=C(NC(=C12)/C=C\3/C(=CC(=N3)C4=CC=CN4)OC)C,540,,Ethanol,https://doi.org/10.1128/aem.37.6.1176-1179.1979,
+cynodontin,anthraquinones,Drechslera avenae,CC1=CC(=C2C(=C1O)C(=O)C3=C(C=CC(=C3C2=O)O)O)O,490; 507; 518; 544; 557,10980; 14542; 16241; 14375; 15368,Chloroform,https://doi.org/10.1021/jf034359t,spectum+; vibration structure is resolved
+daunorubicine,anthracyclinones,Streptomyces peucetius,C[C@@H]1[C@@H](O)[C@H](N)C[C@H](O[C@H]2C[C@@](C(C)=O)(O)CC3=C(O)C4=C(C(O)=C32)C(C5=C(OC)C=CC=C5C4=O)=O)O1,530,6000,DMF,https://doi.org/10.1021/js970436l,red in acidic blue in alkaline pH; anticancer drug
+decarboxydehydrosanguinone_a,indole_heterocycles,Mycena sanguinolenta,O=C1C2=NCN[C@H]3CCN4C=CC5=CNC1=C5C4=C23,452; 428,1800; 1100,Water,https://doi.org/10.1021/np070179s,
+deinoxanthin,carotenoids,Deinococcus radiodurans,CC1=C(C([C@@H](CC1=O)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/CC(C)(C)O)/C)/C,479; 506,,Methanol,https://doi.org/10.1016/S0040-4020(96)01036-8,spectrum+ ; 492; 524 in chl
+oxyviolacein,indole_heterocycles,Citrobacter freundii,O=C1NC(C2=CNC3=CC=C(O)C=C23)=C/C1=C4C(NC5=CC=C(O)C=C\45)=O,378; 563,,Methanol,https://doi.org/10.1016/j.bej.2012.06.005,spectrum+; methanol (70%)
+prodeoxyviolacein,indole_heterocycles,Chromobacterium violaceum,C1=CC=C2C(=C1)C(=CN2)C3=CC(=NC3=O)C4=CNC5=CC=CC=C54,426; 609,11129; 24595,Ethanol,https://doi.org/10.1039/P19950001565,spectrum+; 493 (11400) in base; et/w
+pseudoviolacein,indole_heterocycles,Chromobacterium violaceum,O=C(C(C1=CNC2=C1C=CC=C2)=C/3)NC3=C4C(NC5=CC=C(O)C=C/45)=O,472,11100,Ethanol,https://doi.org/10.1039/P19950001565,et/w
+chromopyrrolic_acid_dimethylester,indole_heterocycles,Chromobacterium violaceum,O=C(OC)C1=C(C2=CNC3=CC=CC=C32)C(C4=CNC5=CC=CC=C54)=C(C(OC)=O)N1,327,3300,Methanol,https://doi.org/10.1271/bbb.57.775,
+deoxychromoviridan,indole_heterocycles,Chromobacterium violaceum,C(C=C/1C2=CNC3=C2C=CC=C3)(C4=CNC5=C4C=CC=C5)=NC1=C/C6=C(C7=CNC8=C7C=CC=C8)C=C(C9=CNC%10=C9C=CC=C%10)N6,489; 641,13400; 59600,Methanol,https://doi.org/10.1039/A803617I,spectrum+ ; pKa1=5.3; pKa2=8.5; 563 (27600); 387 (10580) -> pH=12
+chromoviridan,indole_heterocycles,Chromobacterium violaceum,OC1=CC2=C(C=C1)NC=C2C(C=C/3C4=CNC5=C4C=CC=C5)=NC3=C/C6=C(C7=CNC8=C7C=CC=C8)C=C(C9=CNC%10=C9C=CC=C%10)N6,490; 644,18400; 53000,Methanol,https://doi.org/10.1039/A803617I,spectrum+ ; pKa1=5.4; pKa2=8.7; 562 (27800); 388 (16600) -> pH=12
+bromorebeccamycin,indole_heterocycles,Saccharotrix aerocolonigenes,COC1C(OC(C(C1O)O)N2C3=C(C=CC=C3Br)C4=C5C(=C6C7=C(C(=CC=C7)Br)NC6=C42)C(=O)NC5=O)CO,390,4254,Methanol,https://doi.org/10.7164/antibiotics.44.934,
+chromoazepinone_B,indole_heterocycles,Chromobacterum violaceum,C1=CC=C2C(=C1)C3=C(N2)C(=O)C(=NC(=C3)C(=O)O)C4=CNC5=CC=CC=C54,405,16218,Methanol,https://doi.org/10.1039/C003837G,ph=7 and 12 ; 422 (14125); 550 (8912) -> pH=2 
+arcyriarubin_B,indole_heterocycles,Arcyria denudata,C1=CC2=C(C=C1O)NC=C2C3=C(C(=O)NC3=O)C4=CNC5=C4C=CC(=C5)O,465,5888,Methanol,https://doi.org/10.1002/anie.198004591,
+arcyriarubin_C,indole_heterocycles,Arcyria denudata,C1=CC=C2C(=C1)C(=CN2)C3=C(C(=O)NC3=O)C4=CNC5=C4C=CC(=C5)O,474,5754,Methanol,https://doi.org/10.1002/anie.198004591,
+arcyriaflavin_B,indole_heterocycles,Arcyria denudata,C1=CC=C2C(=C1)C3=C4C(=C5C6=C(C=C(C=C6)O)NC5=C3N2)C(=O)NC4=O,414,1548,Methanol,https://doi.org/10.1002/anie.198004591,
+arcyriaflavin_C,indole_heterocycles,Arcyria denudata,C1=CC2=C(C=C1O)NC3=C4C(=C5C(=C23)C(=O)NC5=O)C6=C(N4)C=C(C=C6)O,422,2187,Methanol,https://doi.org/10.1002/anie.198004591,
+arcyroxepin_A,indole_heterocycles,Arcyria denudata,C1=CC=C2C(=C1)C3=C(N2)OC4=C(C5=CC=CC=C5N4)C6=C3C(=O)NC6=O,471,4786,Methanol,https://doi.org/10.1002/anie.198004591,
+arcyriacyanin_A,indole_heterocycles,Arcyria obvelata,O=C(C1=C2C3=C(C4=C5C(NC=C51)=CC=C4)NC6=CC=CC=C63)NC2=O,622,1348,Methanol,https://doi.org/10.1002/chem.19970030112,
+pityrialactone,indole_heterocycles,Malassezia furfur,C1=CC=C2C(=C1)C(=CN2)C3=C(OC(=O)C3=O)C4=CNC5=CC=CC=C54,356,3548,Methanol,https://doi.org/10.1023/A:1026042903354,
+malasseziazole_B,indole_heterocycles,Malassezia furfur,C1=CC=C2C(=C1)C3=C(C4=C(C5=CC=CC=C5N4)C(=C3N2)C(=O)C(=O)O)C=O,409; 482,2137; 1445,Methanol,https://doi.org/10.1002/hlca.200590118,
+malasseziazole_C,indole_heterocycles,Malassezia furfur,C1=CC=C2C(=C1)C3=C(C4=C(C5=CC=CC=C5N4)C(=C3N2)C(=O)O)C=O,391; 465,1548; 891,Methanol,https://doi.org/10.1002/hlca.200590118,
+malasseziazole_A,indole_heterocycles,Malassezia furfur,C1=CC=C2C(=C1)C3=CC4=C(C5=CC=CC=C5N4)C(=C3N2)C(=O)C(=O)O,447,,Acetonitrile,https://doi.org/10.1002/hlca.200590118,
+arcyroxocin_A,indole_heterocycles,Arcyria denudata,O=C(C1=C2C3=CNC4=C3C(OC5=C1C(C=CC(O)=C6)=C6N5)=CC=C4)NC2=O,465,8128,Methanol,https://doi.org/10.1016/0040-4039(96)00864-7,
+arcyroxocin_B,indole_heterocycles,Arcyria denudata,C1=CC2=C3C(=C1)OC4=NC5=C(C4=C6C(=C(NC6=O)O)C3=CN2)C=CC(=C5)O,474,10000,Methanol,https://doi.org/10.1021/np060269h,
+fascaplysin,indole_heterocycles,Fascaplysinoplis sp.,C1=CC=C2C(=C1)C3=C(N2)C4=[N+](C=C3)C5=CC=CC=C5C4=O,413,3100,Methanol,https://doi.org/10.1021/jo00249a025,
+didemnimide_A,indole_heterocycles,Didemnum conchyliatum,C1=CC=C2C(=C1)C(=CN2)C3=C(C(=O)NC3=O)C4=CN=CN4,430,3000,Acetonitrile,https://doi.org/10.1021/jo961789s,
+didemnimide_B,indole_heterocycles,Didemnum conchyliatum,C1=CC2=C(C=C1Br)NC=C2C3=C(C(=O)NC3=O)C4=CN=CN4,420,4300,Acetonitrile,https://doi.org/10.1021/jo961789s,
+didemnimide_C,indole_heterocycles,Didemnum conchyliatum,CN1C=NC=C1C2=C(C(=O)NC2=O)C3=CNC4=CC=CC=C43,420,5700,Acetonitrile,https://doi.org/10.1021/jo961789s,
+isogranulatimide,indole_heterocycles,Didemnum granulatum,O=C(C1=C2C3=CN=CN3C4=C1C5=CC=CC=C5N4)NC2=O,470,1876,Methanol,https://doi.org/10.1021/jo981607p,
+didemnimide_D,indole_heterocycles,Didemnum conchyliatum,CN1C=NC=C1C2=C(C(=O)NC2=O)C3=CNC4=C3C=CC(=C4)Br,416,4500,Acetonitrile,https://doi.org/10.1021/jo961789s,
+rhopaladin_A,indole_heterocycles,Rhopalaea sp.,OC1=CC(NC=C2/C=C3C(NC(C(C4=CNC5=C4C=C(Br)C=C5)=O)=N/3)=O)=C2C=C1,488,13000,Methanol,https://doi.org/10.1016/S0040-4020(98)00470-0,535 (10000) in basic env
+rhopaladin_B,indole_heterocycles,Rhopalaea sp.,OC1=CC(NC=C2/C=C3C(NC(C(C4=CNC5=C4C=CC=C5)=O)=N/3)=O)=C2C=C1,485,8900,Methanol,https://doi.org/10.1016/S0040-4020(98)00470-0,535 (7300) in basic env
+rhopaladin_C,indole_heterocycles,Rhopalaea sp.,O=C(C1=CNC2=C1C=C(Br)C=C2)C3=N/C(C(N3)=O)=C\C4=CNC5=C4C=CC=C5,471,5600,Methanol,https://doi.org/10.1016/S0040-4020(98)00470-0,527 (5800) in basic env
+rhopaladin_D,indole_heterocycles,Rhopalaea sp.,O=C(C1=CNC2=C1C=CC=C2)C3=N/C(C(N3)=O)=C\C4=CNC5=C4C=CC=C5,468,4800,Methanol,https://doi.org/10.1016/S0040-4020(98)00470-0,514 (3600) in basic env
+pityriacitrin_B,indole_heterocycles,Malassezia furfur,C1=CC=C2C(=C1)C3=C(N2)C(=NC=C3)C(=O)C4=CNC5=CC=CC=C54,391,5495,Methanol,https://doi.org/10.1002/hlca.200590118,
+deoxyviolacein,indole_heterocycles,Citrobacter freundii,O=C1NC(=C\C1=C1/C(=O)NC2=CC=CC=C12)C1=CNC2=CC=CC=C12,367; 560,2863; 5222,Ethanol,https://doi.org/10.1007/s00253-012-3960-0,spectrum+  
+dermocybin,anthraquinones,Cortinarius sanguineus,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C(=C(C(=C3O)O)OC)O,459; 486; 521,11750;  13800; 10000,Ethanol,https://doi.org/10.1042/bj0800387,
+dermolutein,anthraquinones,Cortinarius sp.,CC1=C(C(O)=O)C(O)=C2C(C(C3=C(C(OC)=CC(O)=C3)C2=O)=O)=C1,427; 440,7762; 7080,Methanol,https://doi.org/10.1038/s41598-022-04975-9,
+dermorubin,anthraquinones,Cortinarius sp.,CC1=C(C(=C2C(=C1O)C(=O)C3=C(C2=O)C(=CC(=C3)O)OC)O)C(=O)O,490; 530,8317; 3801,Methanol,https://doi.org/10.1038/s41598-022-04975-9,
+"7,7-biphyscion",anthraquinones,Cortinarius sp.,CC1=CC(O)=C2C(C(C3=C(C(OC)=C(C4=C(OC)C(C(C(C(O)=CC(C)=C5)=C5C6=O)=O)=C6C=C4O)C(O)=C3)C2=O)=O)=C1,440,3019,Methanol,https://doi.org/10.1038/s41598-022-04975-9,
+"7,7-biphyscion",anthraquinones,Cortinarius sp.,CC1=CC(O)=C2C(C(C3=C(C(OC)=C(C4=C(OC)C(C(C(C(O)=CC(C)=C5)=C5C6=O)=O)=C6C=C4O)C(O)=C3)C2=O)=O)=C1,440,3019,Methanol,https://doi.org/10.1038/s41598-022-04975-9,
+diacetylindigoidine,glutamine_heterocycles,semiartificial,O=C(NC1=O)/C(C=C1NC(C)=O)=C2C=C(C(NC\2=O)=O)NC(C)=O,511,24500,DMF,https://doi.org/10.1007/BF00406851,
+diacetyldioxyindigoidine,glutamine_heterocycles,semiartificial,O=C(NC1=O)/C(C=C1OC(C)=O)=C2C=C(C(NC\2=O)=O)OC(C)=O,391,14800,THF,https://doi.org/10.1007/BF00406851,
+diadinoxanthin,carotenoids,Phaeodactylum tricornutum,CC1=C(C(C[C@@H](C1)O)(C)C)C#C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@]23[C@](O2)(C[C@H](CC3(C)C)O)C)/C)/C,447; 477,,Hexane,https://doi.org/10.1007/s10811-016-0961-x,spectrum+; hexane/acetone (70:30)
+diatoxanthin,carotenoids,Phaeodactylum tricornutum,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C#CC2=C(C[C@H](CC2(C)C)O)C)/C)/C,454; 481,,Hexane,https://doi.org/10.1007/s10811-016-0961-x,spectrum+; hexane/acetone (70:30)
+dimethoxyindigoidine,glutamine_heterocycles,semiartificial,O=C(NC1=O)/C(C=C1OC)=C2C=C(C(NC\2=O)=O)OC,467,24500,DMF,https://doi.org/10.1007/BF00406851,
+pyrrhoxanthin,carotenoids,Amphidinium carterae,CC1=C(C(C[C@@H](C1)OC(=O)C)(C)C)C#C/C(=C/C=C/C=C/C=C(\C)/C=C\2/C=C(C(=O)O2)/C=C/[C@]34[C@](O3)(C[C@H](CC4(C)C)O)C)/C,458,,Acetone,https://doi.org/10.1016/0031-9422(74)85038-7,
+dinoxanthin,carotenoids,Gyrodinium resplendens,C/C(=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C=C1[C@@](C[C@@H](CC1(C)C)OC(=O)C)(C)O)/C=C/C=C(\C)/C=C/[C@@]23[C@@](O2)(C[C@H](CC3(C)C)O)C,418; 442;  471,135000,Acetone,https://doi.org/10.1016/0031-9422(74)85038-7,
+diosindigo_B,naphthoquinones,Diospyros melanoxylon,COC(C(C(O)=CC(C)=C1)=C1C/2=O)=CC2=C3C=C(C4=C(O)C=C(C)C=C4C\3=O)OC,676,26302,Chloroform,https://doi.org/10.1016/0031-9422(81)83034-8,
+diosndigo_quinone,naphthoquinones,Diospyros melanoxylon,COC1=CC2=C(OC(C(C3=C(O)C=C(C)C=C34)=O)=C2C4=O)C5=C1C(O)=CC(C)=C5,520,9332,Chloroform,https://doi.org/10.1016/0031-9422(81)83034-8,
+diosindigo_A,naphthoquinones,Diospyros melanoxylon,CC1=CC(C(OC)=C/C2=C3C=C(C4=CC(C)=CC(O)=C4C/3=O)OC)=C(C(O)=C1)C2=O,697,28180,Chloroform,https://doi.org/10.1016/0031-9422(81)83034-8,
+dioxyindigoidine,glutamine_heterocycles,semiartificail,OC1=C/C(C(NC1=O)=O)=C2C=C(C(NC/2=O)=O)O,648,17400,DMF,https://doi.org/10.1007/BF00406851,
+draconin_red,naphthoquinones,Scytalidium cuboideum,O=C1C=C(OC)C(C2=C(O)C(OC)=CC(O)=C21)=O,509,,CH2Cl2,https://doi.org/10.1021/acs.jpcc.1c09773,spectrum+
+nordracorubin,benzoquinones,Dracaena draco,COC1=CC(O2)=C(C3=C1CC[C@@H](c4ccccc4)O3)C5=C6C2=CC(C=C6OC(c7ccccc7)=C5)=O,500,15350,Methanol,https://doi.org/10.1039/J39710003967,
+aminodrosopterin,pterins/flavins,semisynthetic,CC1=C2[C@]([H])(CN=C3C(C(NC(N)=N3)=O)=N2)[C@@]4(N1C5=C(NC4)N=C(N=C5N)N)[H],489,,Water,https://doi.org/10.1002/hlca.19930760516,spectrum+; pH=3
+aurodrosopterin,pterins/flavins,Drosophyla melanogaster,CC1=C2[C@]([H])(CN=C3C(C(NC(N)=N3)=O)=N2)[C@@]4(N1C5=C(NC4)NC(NC5=O)=O)[H],477,,Water,https://doi.org/10.1002/hlca.19930760516,spectrum+; pH=3
+echinenone,carotenoids,Kocuria rosea,CC(\C=C\C=C(C)\C=C\C1=C(C)CCCC1(C)C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C(=O)CCC1(C)C,458,,Hexane,https://doi.org/10.1128/jb.104.1.272-274.1970,spectrum+
+emodin,anthraquinones,Xanthoria sp.,Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1,436,9700,Ethanol,https://doi.org/10.2298/JSC0008555M,
+epicocconone,azaphilones,Epicoccum nigrum,C\C=C\C=C\C=C\C(=O)\C=C(O)\C1=C2C=C3C[C@@H](CO)OC=C3C(=O)[C@@]2(C)OC1=O,432; 555,10000; 4000,Methanol,https://doi.org/10.1021/ja035496+,spectrum+
+erythroglaucin,anthraquinones,Xanthoria elegans,CC1=CC(=C2C(=C1O)C(=O)C3=C(C2=O)C(=CC(=C3)OC)O)O,490; 523,10000; 6900,Ethanol,https://doi.org/10.1271/bbb1961.41.2289,
+naphtopurpurin,naphthoquinones,Aspergillus citricus,O=C(C(O)=CC1=O)C2=C1C(O)=CC=C2O,508,13427,Water,https://doi.org/10.1039/JR9530003302,spectrum+
+trimethylflaviolin,anthraquinones,Aspergillus citricus,O=C(C(OC)=CC1=O)C2=C1C(OC)=CC(OC)=C2,424,3140,Water,https://doi.org/10.1039/JR9530003302,spectrum+
+flaviolin,naphthoquinones,Aspergillus citricus,C1=C(C=C(C2=C1C(=O)C(=O)C=C2O)O)O,379; 472,1905; 2041,Water,https://doi.org/10.1039/JR9530003302,spectrum+
+flavomannin,pyranones,Penicillium wortmanni,CC1(CC2=C(C(=O)C1)C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C6=C(CC(CC6=O)(C)O)C=C5C=C4O)O)O)O)O)O,417,25500,Ethanol,https://doi.org/10.1039/J39680002560,
+flexirubin,polyenes,Chryseobacterium sp. UTM-3,CCCCCCCCCCCCC1=C(C=C(C=C1OC(=O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C2=CC(=C(C=C2)O)C)C)O,450,,Hexane,https://doi.org/10.1016/j.bcab.2014.02.006,"spectrum+ ; 492 (et, alkaline); https://hdl.handle.net/10033/623339"
+fucoxanthin,carotenoids,Sporochnus comosus,[H]C(=C=C1C(C)(C)C[C@@H](C[C@@]1(C)O)OC(C)=O)C(\C)=C\C=C\C(C)=C\C=C\C=C(C)\C=C\C=C(/C)C(=O)C[C@@]12O[C@]1(C)C[C@@H](O)CC2(C)C,447; 463,,Hexane,https://doi.org/10.1007/s10811-016-0961-x,spectrum+; hexane/acetone (70:30)
+fumigatin,benzoquinones,Aspergillus fumigatus ,CC1=CC(C(OC)=C(O)C1=O)=O,450,,Chloroform,https://doi.org/10.1042/bj0320687,
+anhydrofusarubin,naphthoquinones,Fusarium sp.,CC1=CC2=C(CO1)C(=C3C(=O)C=C(C(=O)C3=C2O)OC)O,545,,Water, https://doi.org/10.7164/antibiotics.32.679,spectrum+
+fusarubin,naphthoquinones,Fusarium sp.,CC1(CC2=C(CO1)C(=C3C(=O)C=C(C(=O)C3=C2O)OC)O)O,472; 498; 534,5000; 5800; 3800,Water,https://doi.org/10.1021/jo01275a074,
+genipocyanin_G1,pyridine_heterocycles,Genipa americana,CC1=C/C(=C\C2=C3C(=CN(C=C3C(=O)OC)CC(=O)[O-])C(=C2)C)/C4=C[N+](=CC(=C14)C(=O)OC)CC(=O)O,595,43700,Water,https://doi.org/10.1016/S0040-4039(00)96601-2,
+gomphidic_acid,pulvinones,Gomphidius glutinosus,C1=CC(=CC=C1/C(=C/2\C(=C(C(=O)O2)C3=CC(=C(C(=C3)O)O)O)O)/C(=O)O)O,398,6500,Ethanol,https://doi.org/10.1039/P19860002127,EtOH - NaOH: 402 (13500)
+granaticin_B,naphthoquinones,Sterptomices lateritius,C[C@H]1[C@H](CC[C@@H](O1)O[C@@H]2C[C@@H]3C4=C([C@]2([C@H](O3)C)O)C(=C5C(=C4O)C(=O)C6=C(C5=O)[C@@H](O[C@@H]7[C@H]6OC(=O)C7)C)O)O,522,8910,Ethanol, https://doi.org/10.7164/antibiotics.41.570,red in acid (522) / blue (630) in alkaline
+utahmycin_A,pyridine_heterocycles,Sterptomices albus,CC1=CC2=C(C(=N1)C)C(=O)C3=C(C2=O)C=CC=C3O,412,20,CH2Cl2,https://doi.org/10.1021/np900786s,
+isotolypocladin,pyridine_heterocycles,Topylocladium inflatum,CC1=CC2=C(C=N1)C(=O)C3=C(C2=O)C(=CC(=C3O)O)O,491; 517,9180; 8725,Methanol,https://doi.org/10.1016/S0040-4039(00)96601-2,spectrum+ 
+tolypocladin,pyridine_heterocycles,Topylocladium inflatum,CC1=CC2=C(C=N1)C(=O)C3=C(C2=O)C(=C(O)C(=C3O))O,529,6670,Methanol,https://doi.org/10.1016/S0040-4020(96)00956-8,spectrum+
+scorpinone,pyridine_heterocycles,marine fungi,CC1=CC2=C(C=N1)C(=O)C3=C(C2=O)C=C(C=C3OC)OC,405,,Methanol,https://doi.org/10.1021/np000625a,
+utahmycin_B,pyrrol_heterocycles,Sterptomyces albus,CC1=CC2=C(N1)C(=O)C3=C(C2=O)C=CC=C3O,438,34,Ethanol,https://doi.org/10.1021/np900786s,
+katorazone,pyridine_heterocycles,Sterptomyces sp. IFM 11299,CC1=CC(/C(C2=CC=CC(O)=C23)=N/NC4=CC=CC=C4C(OC)=O)=C(C(C)=N1)C3=O,440,5400,Methanol,https://doi.org/10.1016/j.tetlet.2012.04.073,
+guaiazulene,azulenes,Matricaria sp.,CC1=CC=C2C1=CC(C(C)C)=CC=C2C,648,407,Acetonitrile,https://doi.org/10.1246/bcsj.61.475,lipophilic; poor stability
+haematopodin,indole_heterocycles,Mycena haematopus,C1CN2C(CC3=CNC4=C3C2=CC(=O)C4=O)OC1,514,813,Methanol,https://doi.org/10.1002/anie.199310871,
+1-desmethylaurantio-obtusin,anthraquinones,Cassia tora L.,CC1=CC2=C(C(C3=C(O)C(OC)=C(O)C=C3C2=O)=O)C(O)=C1O,431,,Methanol,https://doi.org/10.1016/j.seppur.2008.07.011,
+1-desmethylchryso-obtusin,anthraquinones,Cassia tora L.,CC1=CC2=C(C(C3=C(OC)C(OC)=C(OC)C=C3C2=O)=O)C(O)=C1O,408,,Methanol,https://doi.org/10.1016/j.seppur.2008.07.011,
+aurantio-obtusin,anthraquinones,Cassia tora L.,CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)O)OC)O,398,,Methanol,https://doi.org/10.1016/j.seppur.2008.07.011,
+chryso-obtusin,anthraquinones,Cassia tora L.,CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)OC)OC)OC,362,,Methanol,https://doi.org/10.1016/j.seppur.2008.07.011,
+obtusin,anthraquinones,Cassia tora L.,CC1=CC2=C(C(=C1O)OC)C(=O)C3=C(C(=C(C=C3C2=O)OC)OC)O,389,,Methanol,https://doi.org/10.1016/j.seppur.2008.07.011,
+stealthin_C,benzofluorenes,Streptomyces viridochromogenes,CC1=CC2=C(C(C3=C2N)=C(O)C(C=CC=C4O)=C4C3=O)C(O)=C1,506; 540,,Acetonitrile,https://doi.org/10.1021/jo961486y,acn + w (7:3)
+herqueidiketal,phenalenones,Penicillium sp.,C[C@@H]1C([C@@]2([C@](O1)(C3=C(O2)C(=C(C4=C3C(=O)C(=CC4=O)C)O)OC)O)O)(C)C,438,5370,Methanol,https://doi.org/10.1021/ol4002174,spectrum+
+herqueioxazole,phenalenones,Penicillium sp.,CC1C(C2(C(=C3C(=CC(=C4C3=C(C2=O)C(=O)C5=C4OC(=N5)C)O)C)O1)O)(C)C,417,1905,Methanol,https://doi.org/10.1021/ol4002174,spectrum+
+herqueiazole,phenalenones,Penicillium sp.,C[C@H]1C([C@@]2(C(=C3C(=CC(=C4C3=C(C2=O)C(=O)C5=C4C=C(N5)C)O)C)O1)O)(C)C,436,2511,Methanol,https://doi.org/10.1021/ol4002174,spectrum+
+seongomycin,benzofluorenes,Streptomyces murayamaensis,CC1=CC2=C(C(=C1)O)C3=C(C4=C(C(=CC=C4)O)C(=O)C3=C2SC[C@@H](C(=O)O)NC(=O)C)O,476,3162,Methanol,https://doi.org/10.1016/S0040-4039(97)00616-3,
+hyrtioerectine_D,indole_heterocycles,Hyrtios sp,OC1=CC=C(NC2=C3C(C(O)=O)=C(C4=CNC5=C4C=CC(O)=C5)N=C2)C3=C1,387,7080,Methanol,https://doi.org/10.3390/md11041061,
+hyrtioerectine_E,indole_heterocycles,Hyrtios sp,OC1=CC2=C(C=C1)C(C3=C(C(O)=O)C4=C(C=N3)NC5=CC=C(OC)C=C54)=CN2,420,7943,Methanol,https://doi.org/10.3390/md11041061,
+hyrtioerectine_F,indole_heterocycles,Hyrtios sp,OC1=CC=C(NC2=C3C(C(N)=O)=C(C4=CNC5=C4C=CC(O)=C5)N=C2)C3=C1,380,8912,Methanol,https://doi.org/10.3390/md11041061,
+hyrtimomine_A,indole_heterocycles,Plakortis lita,C1=CC2=C(C=C1O)C3=C(N2)OC4=C5C3=NC=CC6=CNC(=C65)C=C4,369; 386,9810; 8740,Methanol,https://doi.org/10.1021/ol400687b,
+hyrtimomine_B,indole_heterocycles,Plakortis lita,C1[C@H](NC2=C3C(=CC=C4C3=C1C=N4)OC5=C2C6=C(N5)C=CC(=C6)O)C(=O)O,389,4330,Methanol,https://doi.org/10.1021/ol400687b,
+hyrtimomine_C,indole_heterocycles,Plakortis lita,C1C(=O)C2=CNC3=C2C(=C(C=C3)O)C(=N1)C4=CNC5=C4C=C(C=C5)O,380; 474,6680; 3720,Methanol,https://doi.org/10.1021/ol400687b,
+thiaplakortone_A,indole_heterocycles,Zyzzya fuliginosa,O=S1(C=CNC2=C1C(C3=C(C2=O)NC=C3CCN)=O)=O,375,1820,Methanol,https://doi.org/10.1021/jo400988y,
+thiaplakortone_B,indole_heterocycles,Zyzzya fuliginosa,O=S1(CCNC2=C1C(C3=C(C2=O)NC=C3CCN)=O)=O,357,2137,Methanol,https://doi.org/10.1021/jo400988y,
+thiaplakortone_D,indole_heterocycles,Zyzzya fuliginosa,O=C1C2=C(C(C[C@@H](C(O)=O)NC)=CN2)C(C3=C1S(C=CN3)(=O)=O)=O,464,741,Methanol,https://doi.org/10.1021/jo400988y,
+zyzzyanone_B,indole_heterocycles,Zyzzya fuliginosa,CNCCC1=CNC2=C1C(=O)C3=C(C2=O)NC=C3C4=CC=C(C=C4)O,483,1202,Methanol,https://doi.org/10.1021/np050154y,MeOH - KOH: 503 (1230)
+zyzzyanone_C,indole_heterocycles,Zyzzya fuliginosa,CN1C=C(C2=C1C(=O)C3=C(C2=O)C(=CN3)C4=CC=C(C=C4)O)CCN(C)C=O,486,707,Methanol,https://doi.org/10.1021/np050154y,MeOH - KOH: 511 (724)
+stellettin_N,carotenoids,Stelletta sp.,C/C(=C\C=C\C(=C\1/C(=O)C[C@@H]2[C@@]1(CC[C@@H]3[C@@]2(CC[C@@H](C3(C)C)O)C)C)\C)/C=C/C=C(\C)/C(=O)O,392; 410,44668; 45708,Chloroform,https://doi.org/10.1016/j.bse.2013.03.001,
+aaptamine,quinoline_heterocycles,Aaptos aaptos,COC1=C(C2=NC=CC3=C2C(=C1)C=CN3)OC,381; 394,5000; 4570,Water,https://doi.org/10.1039/P19870000173,
+demethylaaptamine,quinoline_heterocycles,Aaptos aaptos,COC1=C(O)C2=NC=CC3=C2C(C=CN3)=C1,370; 400,4470; 4130,Water,https://doi.org/10.1039/P19870000173,
+demethyloxyaaptamine,quinoline_heterocycles,Aaptos aaptos,COC(C(C1=NC=C2)=O)=CC3=C1C2=NC=C3,373; 415,5040; 2310,Water,https://doi.org/10.1039/P19870000173,
+aaptamine_1,quinoline_heterocycles,Aaptos suberitoides,COC1=C(N=CC2=O)C(N2C=C3)=C4C3=NC=CC4=C1,415; 436,2000; 1820,Methanol,https://doi.org/10.1021/np300794b,
+aaptamine_2,quinoline_heterocycles,Aaptos suberitoides,COC1=C(N=C(OC)C2=O)C(N2C=C3)=C4C3=NC=CC4=C1,359; 380; 399; 422,550; 724; 955; 851,Methanol,https://doi.org/10.1021/np300794b,
+5-benzyldemethylaaptamine,quinoline_heterocycles,Aaptos suberitoides,COC1=C(O)C(NC=C2)=C3C2=NC(C(C4=CC=CC=C4)=O)=CC3=C1,407,5370,Methanol,https://doi.org/10.1021/np300794b,
+3-aminodemethyloxyaaptamine,quinoline_heterocycles,Aaptos suberitoides,COC(C(C1=NC=C2N)=O)=CC3=C1C2=NC=C3,478,2691,Methanol,https://doi.org/10.1021/np300794b,
+6-bromoaplysinopsin,indole_heterocycles,Astroides calycularis,CN1/C(C(N(C)C1=N)=O)=C\C2=CNC3=CC(Br)=CC=C32,398,24000,Methanol,https://doi.org/10.1021/np50042a006,
+6-bromo-N-methylaplysinopsin,indole_heterocycles,Astroides calycularis,CN1/C(C(N(/C1=N\C)C)=O)=C\C2=CNC3=CC(Br)=CC=C32,398,10000,Methanol,https://doi.org/10.1021/np50042a006,
+shermilamine_A,quinoline_heterocycles,Trididemnum sp,CC(=O)NCCC1=C2C3=C(C=CN=C3C4=C1SCC(=O)N4)C5=C(N2)C=C(C=C5)Br,390; 468,6165; 5128,Methanol,https://doi.org/10.1021/jo00254a049,MeOH - HCl: 536 (7585); 382 (7943)
+shermilamine_B,quinoline_heterocycles,Trididemnum sp,CC(=O)NCCC1=C2C3=C(C=CN=C3C4=C1SCC(=O)N4)C5=CC=CC=C5N2,390; 468,5754; 6456,Methanol,https://doi.org/10.1021/jo00278a048,MeOH - HCl: 536 (6760); 382 (6165)
+shermilamine_F,quinoline_heterocycles,Cystodytes violatinctus,CC=C(C)C(=O)NCCC1=C2C3=C(C=CN=C3C4=C1SCC(=O)N4)C5=CC=CC=C5N2,524,2000,Methanol,https://doi.org/10.1021/np400284z,
+kuanoniamine_D,quinoline_heterocycles,Chelynotus semperi,CC(=O)NCCC1=C2C3=C(C=CN=C3C4=C1SC=N4)C5=CC=CC=C5N2,452,2400,Methanol,https://doi.org/10.1021/jo00301a040,
+kuanoniamine_A,quinoline_heterocycles,Chelynotus semperi,C1=CC=C2C(=C1)C3=C4C(=NC=C3)C5=C(C(=O)C4=N2)SC=N5,394,4063,Methanol,https://doi.org/10.1021/jo00301a040,MeOH - HCl: 382 (5128)
+dehydrokuanoniamine_F,quinoline_heterocycles,Cystodytes violatinctus,C/C=C(C)\C(NCCC1=C2C3=C(C4=CC=CC=C4N2)C=CN=C3C5=C1SC=N5)=O,528,1584,Methanol,https://doi.org/10.1021/np400284z,
+arnoamine_A,quinoline_heterocycles,Cystodytes violatinctus,C1=CC=C2C(=C1)C3=C4C5=C(C=CN25)C=C(C4=NC=C3)O,401; 486,1230; 1480,Methanol,https://doi.org/10.1021/jo9719721,MeOH - KOH: 431 (1122); m + tfa
+arnoamine_B,quinoline_heterocycles,Cystodytes violatinctus,COC1=CC2=C3C4=C(C=CN=C14)C5=CC=CC=C5N3C=C2,398; 467,1412; 1660,Methanol,https://doi.org/10.1021/jo9719721,m + tfa
+arnoamine_C,quinoline_heterocycles,Cystodytes violatinctus,CC=C(C)C(=O)NC1=CC2=C3N1C4=CC=CC=C4C5=C3C(=NC=C5)C(=C2)O,402; 473,2500,Methanol,https://doi.org/10.1021/np400284z,
+cyclodercitin,quinoline_heterocycles,Dercitus sp.,C[N+]1=C2C3=C(C=C1)C4=CC=CC=C4N5C3=C(CC5)C6=C2N=CS6,590,,Methanol,https://doi.org/10.1016/S0040-4039(00)99360-2,
+stellettamine,quinoline_heterocycles,Stelletta sp.,CN(C)C1=NC2=C(S1)C3=C4C5=C(C=CN=C52)C6=CC=CC=C6N4C=C3,391; 460,3534; 3136,Methanol,https://doi.org/10.1021/jo00031a035,
+cystodytine_A,quinoline_heterocycles,Cystodytes dellechiajei,CC(=CC(=O)NCCC1=CC(=O)C2=NC=CC3=C2C1=NC4=CC=CC=C34)C,380,11400,Methanol,https://doi.org/10.1021/jo00243a038,
+varamine_A,quinoline_heterocycles,Lissoclinum vareau,CCC(=O)NCCC1=C2C3=C(C=CN=C3C(=C1SC)OC)C4=CC=CC=C4N2,382; 464,3530; 5170,Methanol,https://doi.org/10.1021/jo00278a058,MeOH + HCl pH=2: 376 (4640); 527 (5670)
+urothion,pterins/flavins,Homo sapiens,CSC1=C(SC2=C1N=C3C(=O)NC(=NC3=N2)N)[C@@H](CO)O,354,10067,Water,https://doi.org/10.1093/oxfordjournals.jbchem.a129054,spectrum+; water - NaOH: 397 (12320); water - HCl: 352 (12180)
+asteropterin,pterins/flavins,Asteropus simplex,CN(CCC1=CN=CN1)C2=CN=C3C(=N2)C(=O)NC(=O)N3,416,290,Methanol,https://doi.org/10.1016/j.tetlet.2008.04.043,
+tetrangulol,angucyclinones,Streptomyces rimosus,CC1=CC2=C(C(=C1)O)C3=C(C=C2)C(=O)C4=C(C3=O)C=CC=C4O,425,7080,Methanol,https://doi.org/10.1021/jo01347a043,MeHO- NaOH: 465 (11481)
+kinobscurinone,benzofluorenes,Streptomyces murayamaensis,CC1=CC2=C(C(=C1)O)C3=C(C2=O)C(=O)C4=C(C3=O)C=CC=C4O,580; 488,,Methanol,https://doi.org/10.1016/S0040-4039(00)99360-2,
+exfoliazone,phenoxazinones,Streptomyces exfoliatus,CC(=O)NC1=CC2=NC3=C(C=CC(=C3)CO)OC2=CC1=O,400,42300,Methanol,https://doi.org/10.7164/antibiotics.43.1606,
+N-acetylquestiomycin_A,phenoxazinones,Waksmania aerata sp. nov.,CC(=O)NC1=CC2=NC3=CC=CC=C3OC2=CC1=O,405,27940,Water,https://doi.org/10.1021/bi00892a022,
+4-demethoxymychigazone,phenoxazinones,Streptomyces halstedii,COC1=CC2=NC3=C(C=CC(=C3)CO)OC2=CC1=O,390; 444,11400; 5900,Methanol,https://doi.org/10.7164/antibiotics.49.312,
+michigazone,phenoxazinones,Streptomyces michiganensis,COC1=CC2=NC3=C(C=CC(=C3)CO)OC2=C(C1=O)OC,384; 460,19952; 6456,Methanol,https://doi.org/10.1007/BF00446530,
+halxazone,phenoxazinones,Streptomyces halstedii,COC1=CC(=O)C=C2C1=NC3=C(O2)C=CC(=C3)CO,365; 456,10000; 4700,Methanol,https://doi.org/10.7164/antibiotics.55.508,
+questiomycin_A,phenoxazinones,Waksmania aerata sp,C1=CC=C2C(=C1)N=C3C=C(C(=O)C=C3O2)N,435,27940,Water,https://doi.org/10.1021/bi00892a022,H2O - HCl: 468 (20320); H2O - NaOH: 335 (14372);
+questiomycin_C,phenoxazinones,Alteromonas sp. D,CS(=O)C1=C(C(=O)C=C2C1=NC3=CC=CC=C3O2)N,428,18500,DMSO,https://doi.org/10.3390/molecules24244522,
+questiomycin_D,phenoxazinones,sAlteromonas sp. D,CSC1=C(C(=O)C=C2C1=NC3=CC=CC=C3O2)N,428,19700,DMSO,https://doi.org/10.3390/molecules24244522,
+questiomycin_E,phenoxazinones,Alteromonas sp. D,C1=CC=C2C(=C1)N=C3C(=CC(=O)C(=C3Br)N)O2,426,25400,DMSO,https://doi.org/10.3390/molecules24244522,
+xanthommatin,phenoxazinones,Pieris brassicae,C1=CC(=C2C(=C1)OC3=CC(=O)C4=C(C3=N2)C(=O)C=C(N4)C(=O)O)C(=O)CC(C(=O)O)N,436,,Water,https://doi.org/10.1016/0022-1910(79)90113-6,spectrum+
+dihydroxanthommatin,phenoxazinones,Pieris brassicae,C1=CC(=C2C(=C1)OC3=C(N2)C4=C(C(=C3)O)NC(=CC4=O)C(=O)O)C(=O)CC(C(=O)O)N,493; 380,,butanol-1,https://doi.org/10.1016/0022-1910(79)90113-6,spectrum+
+farinamycin,other_heterocycles,Streptomyces griseus,C1=CC2=C(C(=C1)O)N=C(NC2=O)C3=CC(=C(C=C3)O)N[C@@H]4[C@H]([C@@H](C(=N)C(=C4O)C(=O)N)O)O,343,8710,Methanol,https://doi.org/10.1021/np2002513,
+elloxazinone_B,phenoxazinones,Streptomyces griseus Acta 2871,C1=CC2=C(C=C1C(=O)O)N=C3C(=CC(=O)C(=C3C(=O)N)N)O2,412; 431,,Methanol,https://doi.org/10.1038/ja.2007.35,spectrum+
+grixazone_A,phenoxazinones,Streptomyces griseus,CC(=O)N[C@@H](CSC1=C(C(=O)C=C2C1=NC3=C(O2)C=CC(=C3)C=O)N)C(=O)O,414; 436,14800; 15200,Methanol,https://doi.org/10.7164/antibiotics.57.218,spectrum+
+bezerramycin_A,phenoxazinones,Streptomyces griseus,C1=CC2=C(C=C1CO)N=C3C(=CC(=O)C(=C3C(=O)N)N)O2,438,,Methanol,https://doi.org/10.1002/ejoc.200901206,
+bezerramycin_B,phenoxazinones,Streptomyces griseus,CC(=O)NC1=C(C2=NC3=C(C=CC(=C3)CO)OC2=CC1=O)C(=O)O,380,,Methanol,https://doi.org/10.1002/ejoc.200901206,
+bezerramycin_C,phenoxazinones,Streptomyces griseus,CC(=O)NC1=C(C2=NC3=C(C=CC(=C3)CO)OC2=CC1=O)C#N,398,,Methanol,https://doi.org/10.1002/ejoc.200901206,
+streptazone_F,other_heterocycles,Streptomyces sp. NEAU-Z4,C/C=C/C=C/1\C=CC2=C1C(=O)C=CN2,337,3715,Methanol,https://doi.org/10.1080/10286020.2012.761209,
+streptazone_E,other_heterocycles,Streptomyces sp. NEAU-Z4,C/C=C/C=C/1\C=CC2=C1C(=O)CCN2,350; 366,5128; 4677,Methanol,https://doi.org/10.1080/10286020.2012.761209,
+maroxazinone,phenoxazinones,Streptomyces sp. Eg25,O=C1C=C2OC3=CC=C(C(OC)=O)C=C3N=C2C=C1N,412,,Methanol,https://doi.org/10.1080/14786419.2013.793686,
+prekinamycin_diacetate,benzofluorenes,Streptomyces murayamaensis,CC1=CC2=C(C3=C(C(C4=C(C=CC=C4OC(C)=O)C3=O)=O)C2=[N+]=[N-])C(OC(C)=O)=C1,493,,Chloroform,https://doi.org/10.7164/antibiotics.42.179,
+kinamycin_E,benzofluorenes,Streptomyces murayamaensis,CC(=O)O[C@@H]1C2=C([C@@H]([C@H]([C@@]1(C)O)O)O)C3=C(C2=[N+]=[N-])C(=O)C4=C(C3=O)C=CC=C4O,409; 446,8850; 8760,Ethanol,https://doi.org/10.7164/antibiotics.42.179,
+prekinamycin,benzofluorenes,Streptomyces murayamaensis,CC1=CC2=C(C(=C1)O)C3=C(C2=[N+]=[N-])C(=O)C4=C(C3=O)C=CC=C4O,574,37700,Chloroform,https://doi.org/10.7164/antibiotics.42.179,
+chartreusin,other_polyketides,Streptomyces chartreusis,C[C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC2=CC=CC3=C2C4=C5C6=C(C=CC(=C6C(=O)O4)C)OC(=O)C5=C3O)O[C@@H]7[C@@H]([C@H]([C@H]([C@H](O7)C)O)OC)O)O)O,384; 405; 423,11691; 18775; 14695,Ethanol,https://doi.org/10.1021/ja01112a040,spectrum+
+lambertellin,naphthoquinones,Lambertella corni-maris,CC1=CC2=C(C(=O)C3=C(C2=O)C=CC=C3O)OC1=O,430,4800,Methanol,https://doi.org/10.1039/JR9650005927,
+dehydrorabelomycin,angucyclinones,Streptomyces murayamaensis,CC1=CC2=CC(=C3C(=C2C(=C1)O)C(=O)C4=C(C3=O)C(=CC=C4)O)O,470,,Chloroform,https://doi.org/10.1021/ja00251a045,oxydation product is blue - 598 nm absorption in Chl; as a synthesised compound is oxidized by air
+PD116740,angucyclinones,Actinomyces sp. WP4669,COC1=CC=CC2=C1C(C3=C(C4=C([C@@H](O)[C@@H]3O)C=C(CO)C=C4O)C2=O)=O,409,6300,Methanol,https://doi.org/10.1021/jo00220a056,MeOH - NaOH: 389 (4970); 541 (2800)
+sakyomycin_A,angucyclinones,Nocardia sp. M-53,C[C@@H]1[C@@H](CC[C@H](O1)O[C@]23C(=O)[C@H]([C@](C[C@]2(C=CC4=C3C(=O)C5=C(C4=O)C(=CC=C5)O)O)(C)O)O)O,415,4500,Methanol,https://doi.org/10.1039/C39830000174,
+benzanthrin_B,angucyclinones,Nocardia lurida,C[C@H]1[C@@H]([C@H](C[C@H](O1)C2=C(C3=C4C(=C(C=C3C=C2C)O)C(=O)C5=C(C4=O)C=CC=C5O)O[C@@H]6C[C@@H]([C@@H]([C@H](O6)C)O)N(C)C)N(C)C)O,426,8400,Methanol,https://doi.org/10.7164/antibiotics.39.1515,spectrum+: MeOH -NaOH: 510
+ochromycinone,angucyclinones,Streptomyces sp.,C[C@H]1CC2=C(C(=O)C1)C3=C(C=C2)C(=O)C4=C(C3=O)C=CC=C4O,405,3548,Chloroform,https://doi.org/10.1016/S0040-4039(00)90979-1,
+isoxanthorin,anthraquinones,Aloe saponaria,CC1=CC2=C(C(C3=C(C(O)=CC(OC)=C3O)C2=O)=O)C(O)=C1,458; 486; 519; 560,6209; 10000; 12589; 7943,Methanol,https://doi.org/10.1248/cpb.25.1764,
+xanthorin,anthraquinones,Aloe saponaria,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C(=C(C=C3O)OC)O,460; 488; 515; 523; 559,12589; 15848; 10000; 10000; 1995,Methanol,https://doi.org/10.1248/cpb.25.1764,
+calothrixin_A,indole_heterocycles,Calothrix sp,C1=CC=C2C(=C1)C3=C(N2)C(=O)C4=C(C3=O)C=[N+](C5=CC=CC=C54)[O-],413,5300,Ethanol,https://doi.org/10.1016/S0040-4020(99)00833-9,EtOH - NaOH: 482 (4500) 
+6-cyano-5-methoxy-12-methylindolo_23-a_carbazole,indole_heterocycles,Nostoc sphaericum (EX-5-1),CN(C1=C2C=CC=C1)C3=C2C(OC)=C(C#N)C4=C3NC5=CC=CC=C54,372,4046,THF,https://doi.org/10.7164/antibiotics.42.1196,
+calothrixin_B,indole_heterocycles,Calothrix sp,C1=CC=C2C(=C1)C3=C(N2)C(=O)C4=C(C3=O)C=NC5=CC=CC=C54,406,4200,Ethanol,https://doi.org/10.1016/S0040-4020(99)00833-9,EtOH - NaOH: 470 (3086)
+helminthosporin,anthraquinones,Aloe saponaria,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C=CC(=C3C2=O)O)O,460; 476; 489; 507; 522; 567,,Methanol,https://doi.org/10.1248/cpb.25.1764,MeOH - KOH: 510; 520; 540; 585
+xantholipin_B,xanthones,Streptomyces flavogriseus,CC1=CC2=C(C(=C3C(=C2O)C[C@@H]4C5=C3C(=C6C(=C5OCO4)OC7=C(C6=O)C=CC(=C7OC)Cl)O)O)C(=O)N1,394,10715,Methanol,https://doi.org/10.1016/S0040-4039(03)01318-2,
+streptovertimycin_A,other_polyketides,Streptomyces morookaense,CC1=CC(=CC(=C1C2=C3C(=CC(=C2)O)C=C4C(=C3O)C(=O)C5=C(C(=C(C=C5C4(C)C)OC)Cl)O)O)OC,429,1445,Methanol,https://doi.org/10.1038/s41429-020-0277-6,
+senacarcin_A,phenoxazinones,Streptomyces endus susp. aureus,CN(C)[C@@H](CO)C(=O)OCC1=CC=C(C2=NC3=C(C=CC=C3N=C12)C(=O)NC4=C(CCC4=O)O)OC,366; 450,827,Ethanol,https://doi.org/10.7164/antibiotics.35.760,spectrum+;
+limocrocin,polyenes,Streptomyces limosus,C1C(=C(C(=O)C1)NC(=O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)NC2=C(CCC2=O)O)O,418; 442,99500; 88260,Water,https://doi.org/10.1002/cber.19530860913,spectrum+; pH ~ 12; 
+defucogilvocarcin_V,other_polyketides,Streptomyces arenae 2064,COC1=CC(=CC2=C1C3=CC(=C4C(=C3OC2=O)C=CC=C4O)OC)C=C,388; 349,,Methanol, https://doi.org/10.7164/antibiotics.38.1280,
+arixanthomycin_B,xanthones,unknown,O=C1C(C=CC=C2O)=C2OC3=C1C(O)=C4C5=C(O)C(C(N6[C@@H](C(O)=O)CO[C@]6(C)C7)=O)=C7C=C5CCC4=C3OC,399,2951,Methanol,https://doi.org/10.1021/cb500141b,
+arixanthomycin_C,xanthones,unknown,OC1=C2CCC3=CC4=C(C(N5[C@@H](C(O)=O)CO[C@]5(C)C4)=O)C(O)=C3C2=C(O)C6=C1OC7=C(C=CC=C7O)C6=O,399,7343,Methanol,https://doi.org/10.1021/cb500141b,
+hyaluromycin,naphthoquinones,Streptomyces sp. strain MB-PO13,COC1=C(C2=C(C(=C1)O)C(=O)C3=C(C2=O)O[C@]4(C3)CCC5=C(O4)C(=C6C(=C5)C=C(OC6=O)C(=O)NC7=C(CCC7=O)O)O)O,472; 506; 544,6310; 6025; 4168,Methanol,https://doi.org/10.3390/md12010491,MeOH - NaOH (0.01); 392 (8709); 539 (9549); 570 (8912)
+safflor_yellow_B,chalcones,Carthamus tinctorius,C1=CC(=CC=C1/C=C/C(=C/2\C(=O)C(C(=O)C(=C2O)C(C(O)C(O)C(O)C(O)CO)C3=C(/C(=C(\O)/C=C/C4=CC=C(C=C4)O)/C(=O)C(C3=O)(O)C5OC(C(C(C5O)O)O)CO)O)(O)C6OC(C(C(C6O)O)O)CO)/O)O,417,29512,Methanol,https://doi.org/10.1111/j.1365-2621.2003.tb08252.x,unstable
+precarthamin,chalcones,Carthamus tinctorius,O=C(C1=C(O)[C@@]([C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O2)(O)C(O)=C(C(C(O)=O)C3=C(O)[C@@]([C@H]4[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O4)(O)C(O)=C(C(/C=C/C5=CC=C(O)C=C5)=O)C3=O)C1=O)/C=C/C6=CC=C(O)C=C6,410,35481,Methanol,https://doi.org/10.1111/j.1365-2621.2003.tb08252.x,unstable
+carthamin,chalcones,Carthamus tinctorius,C1=CC(=CC=C1/C=C/C(=O)C2=C([C@@](C(=C(C2=O)/C=C\3/C(=O)C(=C([C@](C3=O)([C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)C(=O)/C=C/C5=CC=C(C=C5)O)O)([C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O)O)O,458; 519,,Methanol,https://doi.org/10.1039/D1FO01376A,not stable at increased temperatures
+hydroxysafflower_yellow_a,chalcones,Carthamus tinctorius,C1=CC(=CC=C1/C=C/C(=C\2/C(=C(C(=O)C(C2=O)([C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)/O)O,399,10000,Methanol,https://doi.org/10.1111/j.1365-2621.2003.tb08252.x,unstable
+hypericin,naphthodianthrones,Hypericum perforatum,Cc1cc(O)c2c3c1c1c(C)cc(O)c4c1c1c5c(c(O)cc(O)c5c4=O)c4c(O)cc(O)c(c4c31)c2=O,550; 592,22230; 41600,Ethanol,https://doi.org/10.1111/j.1365-3040.1985.tb01204.x,spectrum+
+cladochrome,perylenequinones,Cladosporium cucumerinum,CC(CC(=O)C(C)C1=C(C2=CC(=O)C3=C4C2=C5C1=CC(=O)C6=C5C(=C(C(=C6O)OC)OC)C4=C(C(=C3O)OC)OC)C(C)C(=O)CC(C)O)O,480; 584, 23442; 11481,Ethanol,https://doi.org/10.1016/0031-9422(88)80424-2,?reactive dye?; 0.02M EtOH - NaOH: 481 (26302); 644 (16982)
+hypocrellin_A,perylenequinones,Shiraia bambusicola,CC(=O)C1C2=C3C4=C(CC1(C)O)C(=C(C5=C4C(=C6C3=C(C(=O)C=C6OC)C(=C2OC)O)C(=CC5=O)OC)O)OC,466; 543; 584,20417; 10715; 10964,Chloroform,https://doi.org/10.1111/j.1751-1097.1990.tb01807.x,pKa=10.29
+thioindigo,synthetic_indigo_analogs,synthetic,O=C1C2=C(C=CC=C2)S/C1=C3C(C4=CC=CC=C4S\3)=O,550,13500,Chloroform,https://doi.org/10.1002/cber.19600931213,
+oxindigo,synthetic_indigo_analogs,synthetic,O=C1C2=C(C=CC=C2)O/C1=C3C(C4=CC=CC=C4O\3)=O,420,11500,Chloroform,https://doi.org/10.1002/cber.19600931213,
+"N,N-dimethylindigo",synthetic_indigo_analogs,synthetic,O=C1C2=C(C=CC=C2)N(C)/C1=C3C(C4=CC=CC=C4N\3C)=O,650,13500,Chloroform,https://doi.org/10.1002/cber.19600931213,
+indigo,indole_heterocycles,microbial,C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O,608,15800,Chloroform,https://doi.org/10.1002/cber.19600931213,
+indigoidine,glutamine_heterocycles,Streptomyces lavendulae,NC1=C\C(C(=O)NC1=O)=C1\C=C(N)C(=O)NC1=O,602,23000,DMF,https://doi.org/10.1007/BF00406851,
+isoindigo,indole_heterocycles,synthetic,O=C1/C(C2=CC=CC=C2N1)=C3C4=C(NC\3=O)C=CC=C4,480,6350,tetrachloroethane,https://doi.org/10.1098/rspb.1958.0041,
+indirubin,indole_heterocycles,Folium isatidis,C1=CC=C2C(=C1)C(=C(N2)O)C3=NC4=CC=CC=C4C3=O,540,12100,tetrachloroethane,https://doi.org/10.1098/rspb.1958.0041,
+indochrome_A,glutamine_heterocycles,Arthrobacter sp.,C1[C@H]([C@H]([C@H]([C@@H](O1)C2=CC(=NC3=CC(=C(NC3=O)O)[C@H]4[C@@H]([C@@H]([C@@H](CO4)O)O)O)C(=O)NC2=O)O)O)O,570,38100,Water,https://doi.org/10.1007/BF00437363,"576; DMSO, 52000"
+1-hydroxyphenazine_di-N-oxide,phenazines,Pseudomonas iodina,OC1=CC=CC2=C1[N+]([O-])=C3C=CC=CC3=[N+]2[O-],375; 510,,Chloroform,https://doi.org/10.1248/yakushi1947.72.10_1301,spectrum+ 
+2-hydroxyphenazine_di-N-oxide,phenazines,Pseudomonas iodina,[O-][N+]1=C2C=CC=CC2=[N+]([O-])C3=C1C=CC(O)=C3,410; 500,,Ethanol,https://doi.org/10.1248/yakushi1947.72.10_1301,spectrum+  
+iodinin,phenazines,Pseudomonas iodina,C1=CC2=C(C(=C1)O)[N+](=C3C=CC=C(C3=[N+]2[O-])O)[O-],528,,Chloroform,https://doi.org/10.1248/yakushi1947.72.10_1301,spectrum+; blue in alkali
+isobatzelline_A,indole_heterocycles,Batzella sp.,CN1C2=C3C(=C1SC)CCN=C3C(=C(C2=O)N)Cl,430,3100,Methanol,https://doi.org/10.1021/jo00303a043,
+isobatzelline_B,indole_heterocycles,Batzella sp.,CN1C2=C3C(=C1SC)CCN=C3C=C(C2=O)N,402,5000,Methanol,https://doi.org/10.1021/jo00303a044,
+isobatzelline_C,indole_heterocycles,Batzella sp.,CN1C=C2CCN=C3C2=C1C(=O)C(=C3Cl)N,394,2600,Methanol,https://doi.org/10.1021/jo00303a045,
+isobatzelline_D,indole_heterocycles,Batzella sp.,CN1C2=C3C(=C1SC)C=CN=C3C(=C(C2=O)N)Cl,439,25200,Methanol,https://doi.org/10.1021/jo00303a046,
+anhydrojavanicin,naphthoquinones,Fusarium javanicum,CC1=CC2=C(C(=C3C(=O)C=C(C(=O)C3=C2O1)OC)O)C,456,8128,Ethanol,https://doi.org/10.1039/JR9470001021,
+javanicin,naphthoquinones,Fusarium javanicum,CC1=C(C(=C2C(=C1O)C(=O)C=C(C2=O)OC)O)CC(=O)C,505,7943,Ethanol,https://doi.org/10.1039/JR9470001021,
+juglone,naphthoquinones,Juglans nigra,Oc1cccc2C(=O)C=CC(=O)c12,428,,Hexane,https://doi.org/10.1016/j.tetlet.2005.11.021,
+kaempferol,flavonoids,Dactylopius coccus,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,366,,Ethanol,https://doi.org/10.1016/j.bmcl.2016.03.091,
+kermesic_acid,anthraquinones,Laccifer lacca,C=1C(=C2C(C3=C(C=C(O)C(C(O)=O)=C3C)C(C2=C(O)C1O)=O)=O)O,466; 498; 536,7943; 9120; 5754,Ethanol,https://doi.org/10.1021/jo00233a033,
+laccaic_acid_F,anthraquinones,Dactylopius coccus,COC(=O)CCC1=CC(=C(C=C1)O)C2=C(C3=C(C(=C2O)O)C(=O)C4=CC(=C(C(=C4C3=O)C(=O)O)C(=O)O)O)O,490,16700,Methanol,https://doi.org/10.1515/HC.1997.3.4.327,
+lactarazulene,azulenes,Matricaria sp.,CC1=CC=C2C1=CC(C(C)=C)=CC=C2C,603,,Hexane,https://doi.org/10.1002/hlca.194502801165,lipohylic; poor stability; several maxima with the most intesive reported
+lavanducyanin,phenazines,Streptomyces aeriouvifer,CC1=C(CCC(C)(C)C1)CN2C3=C(C=CC=C3)N=C4C2=CC=CC4=O,705,1700,Methanol,https://doi.org/10.7164/antibiotics.42.1196,antitumor/antibiotic
+lawsone,naphthoquinones,Lawsonia inermis,OC1=CC(=O)c2ccccc2C1=O,462,12000,Ethanol,https://doi.org/10.1039/C4RA14620D,
+lemonnierin,glutamine_heterocycles,Pseudomonas Lemonieri,O=C(NCCCCCCC)C(C(NC1=O)=O)=C2C1=NC(C2=C3C(NCCCCCCC)=O)=C(O)NC3=O,625,56230,DMF,https://pubs.rsc.org/en/content/articlehtml/1980/p1/p19800001782,poor solubility
+blennione,benzoquinones,Lactarius blennius,COC1=C(N)C(C(O)=O)=C(O)C(C2=CC(C(N)=C(C(O)=O)C2=O)=O)=C1,435; 684,1174; 1174,Methanol,https://doi.org/10.1021/np0106541,
+hypoxyxylerone,other_polyketides,Hypoxylon fragiforme(Pers.: Fries) Kickx,OC1=CC(O)=C2C(OC3=CC4=C(C(C3=C5)=O)C(O)=CC(O)=C4)=C5C(CO)=CC2=C1,610,28183,Acetonitrile,https://doi.org/10.1021/ol026454d,
+necatarone,quinoline_heterocycles,Lactarius necator,OC1=CC2=CC=NC3=C2C(C1=O)=NC4=C3C=C(O)C=C4,413,13489,Methanol,https://doi.org/10.1016/S0040-4039(01)91079-2,
+lilacinone,benzoquinones,Lactarius lilacinus,COC1=CC2(C3=C(C=CC(=C3C(=O)O2)NC4=CC(=O)C(=N)C(=C4O)C(=O)O)O)C(=C(C1=N)C(=O)O)O,519,1737,Methanol,https://doi.org/10.1021/np0303052,????
+loroxanthin,carotenoids,Chlorella vulgaris,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/CO,422; 441; 468,,Ether,https://doi.org/10.1002/hlca.19830660419,large carotenoid; Et2O:Isopentane:EtOH; 5:5:2
+xanthoradone_A,naphthoquinones,Penicillium radicum FKI-3765-2 II.,C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C=C4C)C(=O)C(=CC5=O)OC)O)OC)O)C(=O)O1,375,15100,Methanol,https://doi.org/10.1038/ja.2009.61,
+xanthoradone_B,naphthoquinones,Penicillium radicum FKI-3765-2 II.,C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C=C5C(=C4O)C(=O)C=C(C5=O)C)OC)OC)O)C(=O)O1,373,13000,Methanol,https://doi.org/10.1038/ja.2009.61,
+xanthoradone_C,naphthoquinones,Penicillium radicum FKI-3765-2 II,CC1=CC2=C(C(O1)=O)C(O)=C3C(C=C(OC)C(C4=C(O)C5=C(C(C(OC)=CC5=O)=O)C=C4C)=C3O)=C2,360,3500,Methanol,https://doi.org/10.1038/ja.2010.40,
+xanthoviridicatin_E,naphthoquinones,Penicillium chrysogenum,CC1=CC2=C(C(O)=C3C(C=C(C(C(C(C4=C5C=C(C)C=C4O)=O)=C(C5=O)OC)=C3O)OC)=C2)C(O1)=O,392,7762,Chloroform,https://doi.org/10.1002/hlca.200390281,
+xanthoviridicatin_F,naphthoquinones,Penicillium chrysogenum,CC1=CC2=C(C(O)=C3C(C=C(C(C(C(C4=C5C=C(OC)C=C4O)=O)=C(C5=O)C)=C3O)OC)=C2)C(O1)=O,390,5754,Chloroform,https://doi.org/10.1002/hlca.200390281,
+xanthoviridicatin_G,naphthoquinones,Penicillium viridicatum,CC1CC2=C(C(=C3C(=C2)C=C(C4=C3OC5=C4C(=O)C6=C(C5=O)C=CC=C6O)OC)O)C(=O)O1,440,4400,Methanol,https://doi.org/10.1016/S0040-4039(01)86769-1,
+xanthoviridicatin_D,naphthoquinones,Penicillium viridicatum,CC1CC2=C(C(O1)=O)C(O)=C3C(C=C(OC)C(C(C(C4=C5C=CC=C4O)=O)=C(OC)C5=O)=C3O)=C2,384,8100,Methanol,https://doi.org/10.1016/S0040-4039(01)86769-1,
+talaroderxine_A,other_polyketides,Talaromyces derxii,CCC[C@H]1CC2=CC3=C(C(=CC(=C3C4=C(C=C(C5=C4C=C6C[C@@H](OC(=O)C6=C5O)CCC)O)O)O)O)C(=C2C(=O)O1)O,378,18620,Methanol,https://doi.org/10.1248/cpb.40.1116,
+paepalantine,other_polyketides,Paepalanthus bromelioides,CC1=CC2=C(C(=C3C(=CC(=CC3=C2OC)OC)O)O)C(=O)O1,390,,Ethanol,https://doi.org/10.1016/0031-9422(90)83056-7,
+toralactone,other_polyketides,Cassia tora L. (Leguminosae),CC1=CC2=CC3=CC(=CC(=C3C(=C2C(=O)O1)O)O)OC,392,2454,Methanol,https://doi.org/10.1248/yakushi1947.93.3_261,
+semivioxanthin,other_polyketides,Cryptosporiopsis abietina,C[C@@H]1CC2=CC3=CC(=CC(=C3C(=C2C(=O)O1)O)O)OC,373,7080,Methanol,https://doi.org/10.1271/bbb.65.484,
+viomellin,naphthoquinones,Penicillium citreo-viride,C[C@@H]1CC2=CC3=C(C(=C2C(=O)O1)O)C(=O)C(=C(C3=O)OC)C4=C(C5=C(C6=C(C[C@H](OC6=O)C)C=C5C=C4OC)O)O,383,18400,Methanol,https://doi.org/10.1002/cber.19791120319,MeOH - NaOH: 532 (8100); 383 (15800)
+plastatin,naphthoquinones,Penicillium chermesinum,C[C@@H]1CC2=CC3=C(C(C(C(C(C4=C5C=C6C[C@@H](C)OC(C6=C4O)=O)=O)=C(O)C5=O)=C(N)C3=O)=O)C(O)=C2C(O1)=O,398,7090,Water,https://doi.org/10.7164/antibiotics.38.706,
+viopurpurin,naphthoquinones,Aspergillus sulphureus,C[C@@H]1CC2=CC3=C(C(=C2C(=O)O1)O)C4=C(C5=C(O4)C(=O)C6=C(C5=O)C(=C7C(=C6)C[C@H](OC7=O)C)O)C(=C3O)OC,500; 377,8900; 3000,Chloroform,https://doi.org/10.1039/P19750000163,
+vioxanthin,other_polyketides,Penicillium citreo-viride,C[C@@H]1CC2=C(C(=C3C(=C2)C=C(C(=C3O)C4=C(C5=C(C6=C(C[C@H](OC6=O)C)C=C5C=C4OC)O)O)OC)O)C(=O)O1,379,17500,Methanol,https://doi.org/10.1002/cber.19791120319,
+IB-00208,xanthones,Actinomadura sp.,CC1CC2=C(O[C@@H]3[C@@H](OC)[C@H](OC)[C@@H](OC)[C@H](C)O3)C4=C(C(O)=C2C(O1)=O)C5=C(C(C6=C(C(C7=C(OC)C=CC(OC)=C7O6)=O)C5=O)=O)C=C4,385,,Chloroform,https://doi.org/10.7164/antibiotics.56.318,cytotoxic
+rubicordifolin,other_polyketides,Rubia cordifolia,C[C@@]1(C[C@H]2[C@@H](OC(=O)C3=C(C4=CC=CC=C4C(=C23)O1)O)C(C)(C)O)C5=CC6=C(O5)C7=CC=CC=C7C(=C6C(=O)OC)O,375,,Chloroform,https://doi.org/10.1248/cpb.41.1869,
+benastatin_A,other_polyketides,Streptomyces sp. MI384-DF12,CCCCCC1=C(C(=C2C(=C1)C=CC3=C(C4=C(C=C32)C(C5=C(C4=O)C(=CC(=C5)O)O)(C)C)O)O)C(=O)O,391,28840,Ethanol,https://doi.org/10.7164/antibiotics.45.1767,
+benastatin_B,other_polyketides,Streptomyces sp. MI384-DF12,CCCCCC1=C(C(=C2C(=C1)CCC3=C(C4=C(C=C32)C(C5=C(C4=O)C(=CC(=C5)O)O)(C)C)O)O)C(=O)O,398,12589,Ethanol,https://doi.org/10.7164/antibiotics.45.1767,
+griseorhodin_A,naphthoquinones,Streptomyces griseus (FCRC-57),OC1=C(O2)C([C@H](O)[C@@]32[C@@H](O4)[C@@H]4C(C=C(C=C(C)OC5=O)C5=C6O)=C6O3)=C(O)C7=C1C(C(OC)=CC7=O)=O,510; 540; 570,4786; 3801; 2137,Methanol,https://doi.org/10.7164/antibiotics.32.197,
+lenticulone,naphthoquinones,Streptomyces sp. JP95,CC1=CC2=CC3=C(C(=C2C(=O)O1)O)OC4(CC3)C(=O)C5=C(C6=C(C(=C5C(=O)O4)O)C(=O)C(=CC6=O)OC)O,494,,Acetonitrile,https://doi.org/10.1021/ja807827k,
+cytosporacin,other_polyketides,Cytospora rhizophorae,CCCCCCC[C@@H]1C2=C(C(=C(C=C2C(=C3C4=C(C(=CC3=O)O)C(=C5C(=C4)[C@H](C(=C)OC5=O)O)O)C(=O)O1)O)O)O,360,25703,Water,https://doi.org/10.1021/jo030067f,w/acn 1:1
+dermoquinone,anthraquinones,Dermocybe sanguinea,CC(=O)CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,433,6165,Ethanol,https://doi.org/10.1039/P19900002585,EtOH + OH- : 514 (5011)
+hydroxydermolactone,anthraquinones,Dermocybe sanguinea,C[C@H]1CC2=C(O)C3=C(C(C4=C(C=C(OC)C=C4O)C3=O)=O)C(O)=C2C(O1)=O,477; 500; 538,10471; 11220; 7943,Chloroform,https://doi.org/10.1039/P19900002585,
+dermolactone,anthraquinones,Dermocybe sanguinea,C[C@H]1CC2=CC3=C(C(=C2C(=O)O1)O)C(=O)C4=C(C3=O)C=C(C=C4O)OC,450,8912,Chloroform,https://doi.org/10.1039/P19900002585,CHL + OH-: 516 (6456)
+thermorubin,other_polyketides,Thermoactinomyces antibioticus,COC1=C2C(=CC3=CC(=C(C(=C31)OC)C(=O)/C=C(/C4=CC=CC=C4O)\O)CC(=O)O)C=C5C=C(OC(=O)C5=C2O)C(=O)OC,435,18490,Ethanol,https://doi.org/10.1021/ja00537a028,
+haematoventosin,naphthoquinones,Haematomma ventosum,COC1=CC(=O)C2=C(O)C3=C(C[C@H](C)OC3=O)C(O)=C2C1=O,505,8000,Ethanol,https://doi.org/10.3891/acta.chem.scand.25-0483,
+lutein,carotenoids,Chlorella vulgaris,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/C,423; 446; 478 ,106150; 155400; 143300,Ethanol,https://doi.org/10.1002/hlca.19830660419,large carotenoid
+chrysin,flavonoids,Passiflora Coerulea,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,313,,Methanol,https://doi.org/10.1016/j.saa.2005.02.013,spectrum+: EtOH - NaOH pH 10: 362
+baicalein,flavonoids,Scutellaria baicalensis,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,323,,Methanol,https://doi.org/10.1016/j.ijpharm.2006.01.011,spectrum+
+fisetin,flavonoids,Elaeagnus indica,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,362,,Methanol,https://doi.org/10.1016/j.jphotobiol.2012.10.010,spectrum+ ; pkA=8.87; 10.31; 13.20
+daidzein,flavonoids,Butea monosperma,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,310,,Methanol,https://doi.org/10.1016/j.saa.2013.10.045,spectrum+
+genistein,flavonoids,Genista tinctoria,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,320,,Methanol,https://doi.org/10.1021/ja01857a013,spectrum+; shelf
+prunetin,flavonoids,Pisum sativum,COC1=CC(=C2C(=C1)OC=C(C2=O)C3=CC=C(C=C3)O)O,325,3844,Methanol,https://doi.org/10.3186/jjphytopath.52.809,
+isoliquiritigenin,chalcones,Glycyrrhiza uralensis,C1=CC(=CC=C1/C=C/C(=O)C2=C(C=C(C=C2)O)O)O,373,,Methanol,https://doi.org/10.3390/ijms160817999,spectrum+
+galangin,flavonoids,Alpinia officinarum,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,359,,Methanol,https://doi.org/10.4067/S0717-97072009000200025,spectrum+
+quercetin,flavonoids,Citrullus colocynthis,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,372,,Methanol,https://doi.org/10.1021/jp053506i,spectrum+
+morin,flavonoids,Morus alba,Oc1ccc(c(O)c1)-c1oc2cc(O)cc(O)c2c(=O)c1O,370,,Methanol,https://doi.org/10.1111/php.12407,spectrum+
+myricetin,flavonoids,Myrica rubra,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,374,,Methanol,https://doi.org/10.1021/bm070319c,spectrum+: MeOH - NaOH: 328
+apigenin,flavonoids,Justicia gendarussa,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,336,,Methanol,https://doi.org/10.1021/jp9052538,
+luteolin,flavonoids,Cirsium japonicum,Oc1cc(O)c2c(c1)oc(cc2=O)-c1ccc(O)c(O)c1,349,,Methanol,https://doi.org/10.1021/jp9052538,
+luteosporin,naphthoquinones,Penicillium chermesinum,C[C@@H]1CC2=CC3=C(C(=C2C(=O)O1)O)C(=C(C(=O)C3=O)C4=C(C5=C(C=C6C[C@H](OC(=O)C6=C5O)C)C(=O)C4=O)O)O,388,7157,Water,https://doi.org/10.7164/antibiotics.38.706,
+lycopene,carotenoids,Solanum licypersicum,CC(C)=CCC\C(C)=C\C=C\C(C)=C\C=C\C(C)=C\C=C\C=C(C)\C=C\C=C(C)\C=C\C=C(/C)CCC=C(C)C,447; 473; 505,,Ethanol,https://doi.org/10.1104/pp.10.2.375,spectrum+; EtOH:Et2O; 4:1
+lymphostin,indole_heterocycles,Streptomyces sp. KY11783,CC(=O)N=C1C=C(C2=NC=C3C2=C1NC(=C3)C(=O)/C=C/OC)N,412; 467,6000; 8200,Acetonitrile,https://doi.org/10.7164/antibiotics.50.543,
+macrosporin,anthraquinones,Macrosporium porri Elliott,CC1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=C(C=C3O)OC,381,7762,Ethanol,https://doi.org/10.1271/bbb1924.21.1,
+makaluvamine_A,indole_heterocycles,Zyzzya marsailis,CN1C=C2CCN=C3C2=C1C(=O)C(=C3)N,348,15500,Methanol,https://doi.org/10.1021/ja00058a003,
+makaluvamine_B,indole_heterocycles,Zyzzya marsailis,CN1C=C2C=CN=C3C2=C1C(=O)C(=C3)N,441,4800,Methanol,https://doi.org/10.1021/ja00058a003,
+makaluvamine_C,indole_heterocycles,Zyzzya marsailis,O=C1C(N)=CC2=C3C1=NC=C3CCN2C,357,19100,Methanol,https://doi.org/10.1021/ja00058a003,
+makaluvamine_D,indole_heterocycles,Zyzzya marsailis,C1CN=C2C=C(C(=C3C2=C1C=N3)O)NCCC4=CC=C(C=C4)O,347,10600,Methanol,https://doi.org/10.1021/ja00058a003,
+makaluvamine_E,indole_heterocycles,Zyzzya marsailis,CN1C=C2CCN=C3C2=C1C(=O)C(=C3)NC=CC4=CC=C(C=C4)O,448; 626,4900; 5700,Methanol,https://doi.org/10.1021/ja00058a003,
+neomarinone,naphthoquinones,Actinomycete #CNH-099,C[C@@H]1CCC=C([C@@]1(C)CC[C@@]2([C@H](OC3=C2C=CC4=C3C(=C(C(=O)C4=O)C)O)C)C)C,398; 312,2700; 7800,Methanol,https://doi.org/10.1016/S0040-4039(00)00117-9,"525 (1100); 358 (6000) , KOH+methanol"
+isomarinone,naphthoquinones,Actinomycete #CNH-099,CC1=C[C@H]2[C@@H](CC1)[C@](OC3=C2C(=O)C4=CC(=C(C(=C4C3=O)O)Br)O)(C)CCC=C(C)C,390; 312,1500; 4700,Methanol,https://doi.org/10.1016/S0040-4039(00)00117-9,513 (2000); 385 (2000) KOH+methanol
+hydroxydebromomarinone,naphthoquinones,Actinomycete #CNH-099,CC(=CCC[C@]1([C@@H]2CC[C@](C=C2C3=C(O1)C(=O)C4=C(C3=O)C=C(C=C4O)O)(C)O)C)C,460; 392,2600; 2800,Methanol,https://doi.org/10.1016/S0040-4039(00)00117-9,525 (4700); 358 (8100)  KOH + methanol
+methoxydebromomarinone,naphthoquinones,Actinomycete #CNH-099,CC(=CCC[C@]1([C@@H]2CC[C@](C=C2C3=C(O1)C(=O)C4=C(C3=O)C=C(C=C4O)O)(C)OC)C)C,455; 385,2100; 2700,Methanol,https://doi.org/10.1016/S0040-4039(00)00117-9,525 (3000); 354 (6000) KOH + methanol
+marinone,naphthoquinones,Actinomycete #CNH-099,CC1=C[C@H]2[C@@H](CC1)[C@](OC3=C2C(=O)C4=C(C3=O)C(=CC(=C4Br)O)O)(C)CCC=C(C)C,435; 385,1400; 2300,Methanol,https://doi.org/10.1016/S0040-4039(00)00117-9,510 (3700) KOH + methanol
+monascin,azaphilones,Monascus purpurea,CCCCCC(=O)[C@@H]1[C@H]2CC3=C(COC(\C=C\C)=C3)C(=O)[C@]2(C)OC1=O,390,16200,Ethanol,https://doi.org/10.1039/JR9610004579,
+monascorubramine,azaphilones,Monascus purpurea,O=C(C1=C2C=C3C(C([C@@]2(OC1=O)C)=O)=CNC(/C=C/C)=C3)CCCCCCC,430; 560,8700; 8130,Ethanol,https://doi.org/10.1016/S0040-4039(01)82691-5,
+monascorubrin,azaphilones,Monascus purpurea,CCCCCCCC(=O)C1=C2C=C3C=C(OC=C3C(=O)[C@]2(C)OC1=O)\C=C\C,410,25100,Cyclohexane,https://doi.org/10.1016/S0040-4039(01)82691-5,
+PP-R,azaphilones,Penicillium sp. AZ,CCCCCCCC(C1=C2C=C3C=C(/C=C\C)N(CCO)C=C3C([C@]2(C)OC1=O)=O)=O,530,16600,DMSO,https://doi.org/10.1016/S1389-1723(01)80109-2,
+PP-V,azaphilones,Penicillium sp. AZ,CCCCCCCC(C1=C2C=C3C=C(/C=C\C(O)=O)NC=C3C([C@]2(C)OC1=O)=O)=O,572,11200,DMSO,https://doi.org/10.1016/S1389-1723(01)80109-2,
+munjistin,anthraquinones,Rubia cordifolia,C1=CC=C2C(=C1)C(=O)C3=CC(=C(C(=C3C2=O)O)C(=O)O)O,421,10181,Ethanol,https://doi.org/10.1016/S0367-326X(99)00085-4,spectrum+
+damncanthal,anthraquinones,Pentas micrantha,COC1=C2C(=CC(=C1C=O)O)C(=O)C3=CC=CC=C3C2=O,380,,Methanol,https://doi.org/10.3390/molecules18010311,
+damncanthol,anthraquinones,Pentas micrantha,COC1=C2C(=CC(=C1CO)O)C(=O)C3=CC=CC=C3C2=O,365,,Methanol,https://doi.org/10.3390/molecules18010311,
+"5,6-dihydroxydamnacanthol",anthraquinones,Pentas micrantha,COC1=C2C(C(C3=C(O)C(O)=CC=C3C2=O)=O)=CC(O)=C1CO,424,,Methanol,https://doi.org/10.3390/molecules18010311,
+lucidin-omega-methylether,anthraquinones,Pentas micrantha,O=C(C1=CC(O)=C(COC)C(O)=C12)C3=CC=CC=C3C2=O,410,,Methanol,https://doi.org/10.3390/molecules18010311,
+mycenaaurin_a,polyenes,Mycena aurantiomarginata,C[C@H](C/C=C/CC[C@H](C/C=C/C=C/C=C/C=C/C=C/C=C/C1=CC(=C(C(=O)O1)CC[C@@H](C(=O)O)N)O)O)OCC[C@@H](C(=O)O)NC(=O)C,400; 417; 436,,Methanol,https://doi.org/10.1021/np100155z,carotenoid derivative; m/w
+myxin,phenazines,Sorangium sp.,COC1=CC=CC2=[N+](C3=C(C=CC=C3O)[N+](=C21)[O-])[O-],505,6500,Water,https://doi.org/10.1016/S0040-4039(00)70105-5,0.1 HCl
+"N,N-dodecylindigoidine",glutamine_heterocycles,Shewanella violacea,O=C(NC1=O)/C(C=C1NCCCCCCCCCCCC)=C2C=C(C(NC\2=O)=O)NCCCCCCCCCCCC,636,32360,Chloroform,https://doi.org/10.1155/2009/701735,uv spectrum is supplied
+natronochrome,polyenes,Thialkalivibrio versutus strain ALJ 15,CC1=C(C=CC=C1O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)OC,408; 428; 445,,Methanol,https://doi.org/10.1016/j.tetlet.2004.09.073,m/w (4:1)
+9-cis-neoxanthin,carotenoids,Codium tomentosum,C/C(=C\C=C\C=C(/C)\C=C\C=C(/C)\C=C=C1[C@](C[C@H](CC1(C)C)O)(C)O)/C=C/C=C(/C)\C=C\[C@]23[C@](O2)(C[C@H](CC3(C)C)O)C,413; 437; 466,,Methanol,https://doi.org/10.3390/molecules25204617,
+all-trans-neoxanthin,carotenoids,Codium tomentosum,CC(/C=C/[C@@]12[C@@](O2)(C)C[C@@H](O)CC1(C)C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C([H])=[C@@]=C3C(C)(C)C[C@H](O)C[C@]3(O)C,418; 442; 471 ,,Methanol,https://doi.org/10.3390/molecules25204617,large carotenoid
+nesocodin,other_heterocycles,Nesocodon mauritianus,COC1=C(O)C(OC)=CC(/C=C/C=[N+]2CCCC\2C(O)=O)=C1,505,,Water,https://www.pnas.org/doi/10.1073/pnas.2114420119,deprotnated phenolic group
+roseophilin,pyrrol_heterocycles,Streptomyces griseoviridis,CC(C)[C@@H]1[C@H]2CCCCCCCCC3=NC(=C2C4=C(C=C(O4)C5=C(C=CN5)Cl)OC)C1=C3,378; 533,8600; 112400,Methanol,https://doi.org/10.1016/S0040-4039(00)79061-7,MeOH - NaOH: 477 (29800); 572 (14400)
+norprodigiosin,pyrrol_heterocycles,Serratia marcescens strain Nima,CCCCCC1=C(NC(=C1)/C=C\2/C(=O)C=C(N2)C3=CC=CN3)C,525,66786,Methanol,https://doi.org/10.1128/jb.116.3.1191-1198.1973,
+fluviol_A,other_heterocycles,Pseudomonas fluorescens,COC1=NNC2=C1N=CN=N2,362,1584,Ethanol,https://doi.org/10.1021/ja060937l,
+pseudoiodinin,other_heterocycles,Pseudomonas mosselii,CN1C2=NN=C(C2=NC=N1)OC,520,400,Ethanol,https://doi.org/10.1021/ja060937l,
+nostocine_A,other_heterocycles,Nostoc spongiaeforme TISTR 8169,CN1C2=NNC(=O)C2=NC=N1,548,1000,Methanol,https://doi.org/10.1021/ja060937l,
+nostoxanthin,carotenoids,Sphingomonas sp. SG73,CC1=C(C([C@H]([C@@H](C1)O)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@H]([C@@H](C2(C)C)O)O)C)\C)\C)/C)/C,452; 480,,Methanol,https://doi.org/10.3390/md19050274,large carotenoid; m/thf 4:1
+oxyblepharismin_A,naphthodianthrones,Blepharisma japonicum,CCC1=C(C2=C3C4=C5C6=C(C(=CC7=C6C8=C(C=C(C(=C84)C(=O)C3=C1O)O)OC(O7)C9=CC=C(C=C9)O)O)C(=O)C1=C(C(=C(C2=C51)O)CC)O)O,592,,Ethanol,https://doi.org/10.1016/S0040-4039(98)00712-6,
+pachybasin,anthraquinones,Pachybasium candidum Saccardo,CC1=CC2=C(C(=C1)O)C(=O)C3=CC=CC=C3C2=O,405,5623,Methanol,https://doi.org/10.1248/cpb1953.3.156,
+parietin,anthraquinones,Xanthoria parietin,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)OC,433,,Methanol,http://www.sscm.kg.ac.rs/jsscm/downloads/Vol2No2/Electronic_Absorption_Spectra_of_Substituted_Anthraquinones_and_Their.pdf,
+peridinin,carotenoids,Tridacna gigas,C/C(=C\C=C\C=C\C=C(/C)\C=C/1\C=C(C(=O)O1)/C=C/[C@]23[C@](O2)(C[C@H](CC3(C)C)O)C)/C=C=C4[C@](C[C@H](CC4(C)C)OC(=O)C)(C)O,473,109000,Ethanol,https://doi.org/10.2307/1539622,spectrum+  
+pestalone,other_polyketides,Rosenvingea sp.,CC1=C(C(=C(C(=C1Cl)OC)C(=O)C2=C(C(=CC(=C2C=O)O)O)CC=C(C)C)O)Cl,340,5623,CH2Cl2,https://doi.org/10.1021/np0102713,
+phenazine,phenazines,"STREPTOMYCES ANTIBIOTICUS, STRAIN TÜ 2706",c1ccc2nc3ccccc3nc2c1,360,13900,Acetonitrile,https://doi.org/10.1021/jo01052a042,
+phenazinomycin,phenazines,Streptomyces sp.,C/C(=C\CN1C2=C(C=CC=C2)N=C3C1=CC=CC3=O)/CC[C@H]4C(=C)CCCC4(C)C,745,6600,Methanol,https://www.jstage.jst.go.jp/article/antibiotics1968/42/7/42_7_1037/_pdf/-char/ja,antibiotic and antitumor
+phoenicoxanthin,carotenoids,Micrococcus roseus,CC1=C(C(CCC1=O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2=C(C(=O)[C@H](CC2(C)C)O)C)/C)/C,464,,Ethanol,https://doi.org/10.1039/P19750002195,chl: 480; hexane: 460
+phomaligin_a,other_polyketides,Phoma lingam,CCC(C)C(=O)C1=C(C(C(=O)C(=C1OC)C)(C)O)NCCO,415,4467,Chloroform,https://doi.org/10.1016/0031-9422(94)00759-M,
+phomoxanthone_A,xanthones,Phomopsis sp.,C[C@@H]1CC(O)=C2C(=O)c3c(O)ccc(-c4ccc(O)c5C(=O)C6=C(O)C[C@@H](C)[C@@H](OC(C)=O)[C@@]6(COC(C)=O)Oc45)c3O[C@]2(COC(C)=O)[C@@H]1OC(C)=O,345,,CH2Cl2,https://doi.org/10.1002/ejoc.200500265,
+phycocyanobilin,pyrrol_heterocycles,Spirulina platensis,C/C=C1C(C(NC\1=C/C2=C(C(CCC(O)=O)=C(N2)/C=C3C(CCC(O)=O)=C(C(/C=C4C(C)=C(C(N/4)=O)CC)=N/3)C)C)=O)C,604,17100,Methanol,https://doi.org/10.1002/chem.19970030307,not very stable
+phycoerythrobilin,pyrrol_heterocycles,Ceramium rubrum,C/C=C\1/C(C(=O)N=C1/C=C/2\C(=C(/C(=C\C3=C(C(=C(N3)CC4C(=C(C(=O)N4)C=C)C)C)CCC(=O)O)/N2)CCC(=O)O)C)C,505,,Chloroform,https://doi.org/10.1021/bi00897a026,spectrum+: acidic chl - 576
+phycourobilin,pyrrol_heterocycles,Ceramium rubrum,CCC1=C(C(=O)N[C@H]1CC2=C(C(=C(N2)/C=C\3/C(=C(C(=N3)C[C@@H]4C(=C(C(=O)N4)CC)C)C)CCC(=O)O)CCC(=O)O)C)C,496,93700,Chloroform,https://doi.org/10.1016/S0021-9258(17)32794-1,
+piloquinone,other_polyketides,Streptomyces pilosus,CC1=C(C=C2C3=C(C(=CC=C3)O)C(=O)C(=O)C2=C1O)C(=O)CCC(C)C,398; 515,4075; 5560,Ethanol,https://doi.org/10.1038/199285a0,
+plumbagin,naphthoquinones,Plumbago rosea,CC1=CC(=O)c2c(O)cccc2C1=O,406,,Methanol,https://doi.org/10.1080/13880200500220888,
+Popolohuanone_A,benzoquinones,Dysidea sp.,C=C1CCC[C@H]2[C@](C)(CC3=CC(=O)C(Nc4ccc(O)c(C[C@]5(C)[C@@H](C)CC[C@@]6(C)C(=C)CCC[C@@H]56)c4)=CC3=O)[C@@H](C)CC[C@@]12C,512,2290,Hexane,https://doi.org/10.1016/S0040-4020(01)81459-9,
+portisin_A,anthocyanins,wine,COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC4=C3C(=C2O[C@H]5[C@@H]([C@H]([C@@H]([C@@H](CO)O5)O)O)O)C=C(/C=C/C6=C(C=C(C7=C6O[C@H](C8=CC(=C(C=C8)O)O)[C@H](C7)O)O)O)O4)O,587,82900,Methanol,https://doi.org/10.1016/j.aca.2005.11.027,pH1
+prasinoxanthin,carotenoids,microbial,CC1=C[C@@H](CC([C@H]1/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C(=O)C[C@]2(C(=C)C[C@H](CC2(C)C)O)O)/C)/C)(C)C)O,446,,Ether,https://doi.org/10.1016/S0031-9422(00)83455-X,large carotenoid
+"4,3-dibromprodigiosin",pyrrol_heterocycles,semisynthetic,CCCCCC1=C(Br)/C(N=C1C)=C/c2c(OC)cc(c3[nH]ccc3Br)[nH]2,480; 544,,Ethylacetate,https://doi.org/10.3390/molecules27123729,
+prodigiosin,pyrrol_heterocycles,Serratia marcescens,CCCCCC1=C\C(=C\c2[nH]c(cc2OC)-c2ccc[nH]2)N=C1C,535,51300,Ethanol,https://doi.org/10.7537/marsnsj150517.08,458 in alkaline; spectrum+
+proviolacein,indole_heterocycles,Chromobacterium violaceum,OC=1C=C2C(C3=NC(C(C=4C=5C(NC4)=CC=CC5)=C3)=O)=CNC2=CC1,602,23000,Methanol,https://doi.org/10.1039/P19950001565,main peak in acid; neutral - 493 (17000); pka = 4.7; m/w 1:1
+purple_pigment_prodigiosine_derivative,pyrrol_heterocycles,Serratia marcescens XII-114,COC1=CC(=NC1=CC2=C(C=C(N2)C3=CC=CN3)OC)C4=CC=CN4,588,,Ethanol,https://doi.org/10.1016/S0040-4039(00)75602-4,
+purpurin,anthraquinones,Rubia tinctorum,Oc1cc(O)c2C(=O)c3ccccc3C(=O)c2c1O,476,7850,Acetonitrile,https://doi.org/10.1016/S1386-1425(97)00240-0,
+pyocyanine,phenazines,Pseudomonas aeruginosa,[O-]C1=CC=CC=2[N+](=C3C(=NC12)C=CC=C3)C,691,5800,Water,https://www.jstage.jst.go.jp/article/antibiotics1968/42/7/42_7_1037/_pdf/-char/ja,
+griseulin,pyranones,Streptomyces griseus,CC1=C(C=C(OC1=O)/C(=C/C(=C/C2=CC=C(C=C2)[N+](=O)[O-])/C)/C)OC,367,22417,Ethanol,https://doi.org/10.7164/antibiotics.46.1762,
+questinol,anthraquinones,Penicillium frequentans,COC1=CC(=CC2=C1C(=O)C3=C(C2=O)C=C(C=C3O)CO)O,432,9000,Ethanol,https://doi.org/10.1042/bj0920369,EtOH - NaOH: 503 (8600)
+questin,anthraquinones,Penicillium frequentans,COc1cc(O)cc2C(=O)c3cc(C)cc(O)c3C(=O)c12,425,9300,Ethanol,https://doi.org/10.1042/bj0920369,EtOH - NaOH: 503 (8500)
+rhein,anthraquinones,Rheum palpatum,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)C(=O)O,435,11100,Methanol,https://doi.org/10.1021/jo01062a628,
+"6Z,6E-rhodoxanthin",carotenoids,Ptilinopus magnificus,CC1(C)CC(C=C(C)/C1=C\C=C(C)\C=C\C=C(C)\C=C\C=C\C(C)=C\C=C\C(C)=C\C=C2C(C)(C)CC(C=C/2C)=O)=O,484,,Hexane,https://doi.org/10.1016/j.abb.2013.09.009,spectrum+; hexane:acetone 88:12
+"6Z,6Z-rhodoxanthin",carotenoids,Ptilinopus magnificus,CC1(C)CC(C=C(C)/C1=C\C=C(C)\C=C\C=C(C)\C=C\C=C\C(C)=C\C=C\C(C)=C\C=C2C(C)=CC(CC/2(C)C)=O)=O,477,,Hexane,https://doi.org/10.1016/j.abb.2013.09.009,spectrum+; hexane:acetone 88:12
+"6E,6E-rhodoxanthin",carotenoids,Ptilinopus magnificus,CC\1=CC(=O)CC(/C1=C\C=C(\C=C\C=C(\C=C\C=C\C(=C\C=C\C(=C\C=C\2/C(CC(=O)C=C2C)(C)C)\C)\C)/C)/C)(C)C,489,,Hexane,https://doi.org/10.1016/j.abb.2013.09.009,spectrum+; hexane:acetone 88:12
+riboflavin,pterins/flavins,Escherichia coli,Cc1cc2nc3c(nc(=O)[nH]c3=O)n(C[C@H](O)[C@H](O)[C@H](O)CO)c2cc1C,449; 374,12100; 10300,Water,https://doi.org/10.1111/j.1751-1097.1966.tb05759.x,
+roseoflavin,pterins/flavins,Streptomyces davawensis,CN(C)c1cc2n(C[C@H](O)[C@H](O)[C@H](O)CO)c3nc(=O)[nH]c(=O)c3nc2cc1C,505,31100,Water,https://doi.org/10.1016/0076-6879(80)66464-7,"pKa = 1.6, 10.8; ph=0.6 529 (17800) - cation; ph =12. 492  (26600) -anion"
+rubellin_A,anthraquinones,Mycosphaerella rubella,CC1=CC2=C(C(=C1)O)C(=O)O[C@@H]3[C@@H](C=C[C@H]4[C@]3([C@H]2O)CC5=CC(=C6C(=C45)C(=O)C7=C(C6=O)C(=CC=C7)O)O)O,440,11500,Ethanol,https://doi.org/10.1039/P19860000255,
+rubellin_B,anthraquinones,Mycosphaerella rubella,CC1=CC2=C(C(=C1)O)C(=O)O[C@@H]3[C@@H](C=C[C@H]4[C@]3([C@H]2O)CC5=CC(=C6C(=C45)C(=O)C7=C(C=CC(=C7C6=O)O)O)O)O,483; 495; 517; 530,8600; 9800; 8200; 6600,Ethanol,https://doi.org/10.1039/P19860000255,
+rubixanthin,carotenoids,unidentified,CC(C)=CCC\C(C)=C\C=C\C(C)=C\C=C\C(C)=C\C=C\C=C(C)\C=C\C=C(C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C,434; 460; 490,,Hexane,https://doi.org/10.1039/C19680000382,large carotenoid
+viocristin,naphthoquinones,Aspergillus glaucus,CC1=CC(=O)C2=C(C3=C(C=C(C=C3C=C2C1=O)O)OC)O,497; 517; 527,8130; 8130; 7943,Ethanol,https://doi.org/10.1007/BF00409924,EtOH - NaOH: 580 (9120)
+rubrocristin,anthraquinones,Aspergillus glaucus,CC1=CC(=C2C(=C1O)C(=O)C3=C(C2=O)C(=CC(=C3)O)OC)O,480; 495; 512; 528,10000; 9772; 7413; 5495,Ethanol,https://doi.org/10.1007/BF00409924,EtOH - NaOH: 537 (11220); 574 (8912)
+rubrolone,other_heterocycles,Sterptomyces echinoruber,CCCC1=NC(=CC2=C1C(=O)C3=CC(=O)C4=C(C(=C32)O)O[C@H]5[C@@]4([C@H]([C@H]([C@H](O5)C)O)O)O)C,421; 523,9500; 8600,Water,https://doi.org/10.7164/antibiotics.31.1226,
+rubterolone_C,other_heterocycles,Actinomadura sp. 5-2,CC(N(CC(O)=O)C(C)=C1)=C(C(C2=CC(C3=C4O[C@H]5[C@]3(O)[C@H](O)[C@@H](O)[C@@H](C)O5)=O)=O)C1=C2C4=O,424; 535,,Water,https://doi.org/10.1002/chem.201701005,w:acn:tfa
+monascusazaphilone_A,azaphilones,Monascus purpureus BCRC 38108,CCCCCCCC1(C[C@@H]2C3=COC(=CC3=CC(=O)[C@@]2(O1)C)/C=C/C)OC,368,6165,Methanol,https://doi.org/10.1080/14786419.2012.715289,
+monascusazaphilone_B,azaphilones,Monascus purpureus BCRC 38108,CCCCCCCC(=O)C[C@H]1C2=COC(=CC2=CC(=O)[C@@]1(C)O)/C=C/C,360,16218,Methanol,https://doi.org/10.1080/14786419.2012.715289,
+monaphilol_A,azaphilones,Monascus purpureus NTU 568,CCCCCCCC(=O)C1=C2C=C3C=C(OC=C3[C@@H]([C@@]2(OC1=O)C)O)/C=C/C,469,10000,Methanol,https:/doi.org/10.1021/jf1045987,
+monaphilol_C,azaphilones,Monascus purpureus NTU 568,CCCCCCCC(=O)C1=C2C=C3C=C(OC=C3[C@@]([C@@]2(OC1=O)C)(CC(=O)C)O)/C=C/C,470,7943,Methanol,https:/doi.org/10.1021/jf1045987,
+monascusazaphilone_C,azaphilones,Monascus purpureus BCRC 38108,CCCCCC(=O)C1[C@@H]2C3=COC(=CC3=CC(=O)[C@@]2(OC1=O)C)CC(C)OC(=O)C,345,14791,Methanol,https://doi.org/10.1080/14786419.2012.715289,
+monankarin_A,pyranones,Monascus anka,CC1CC(=O)C=C(O1)C2=CC3=C(C=C(C(=C3[C@@H](C)[C@@H](C)O)C)O)OC2=O,391; 459,31622; 708,Methanol,https://doi.org/10.1248/cpb.44.1535,
+nigeglanine,other_heterocycles,Nigella glandulifera,CC1=CC(=O)C2=CN3CCCCN3C2=C1,320,,Methanol,https://doi.org/10.1248/cpb.52.454,
+nigellicine,other_heterocycles,Nigella sativa,CC1=CC(=O)C2=C(N3CCCCN3C2=C1)C(=O)O,353,,Methanol,https://doi.org/10.1016/S0040-4039(00)94904-9,
+nigellidine,other_heterocycles,Nigella sativa,CC1=CC(=O)C2=C(N3CCCCN3C2=C1)C4=CC=C(C=C4)O,328,,Methanol,https://doi.org/10.1016/0040-4039(95)00210-4,
+purpurogallin,tropolones,Quercus robur,C1=CC2=CC(=C(C(=C2C(=O)C(=C1)O)O)O)O,440,,Water,https://doi.org/10.1002/kin.550210609,pH 9.0
+xanthomonasin_A,azaphilones,Monascus pilosus,CCCCCC(=O)C1=C2C3=C(C[C@]([C@]2(OC1=O)C)(/C=C/C)O)C(=C(O3)O)C=O,460,,Methanol,https://doi.org/10.1021/jf040199p,
+variecolorquinone_A,anthraquinones,Aspergillus variecolor,CC1=CC2=C(C(=C1C(=O)OC[C@H](CO)O)O)C(=O)C3=C(C2=O)C=C(C=C3OC)O,440,3162,Methanol,https://doi.org/10.1038/ja.2007.77,
+cardinalin_1,naphthoquinones,Dermocybe cardinalis,C[C@H]1C[C@@H]2[C@@H]([C@H](O1)C)C(=O)C3=C(C(=C(C=C3[C@@H]2O)OC)C4=C(C=C5C(=O)[C@@H]6C[C@@H](O[C@@H]([C@H]6C(=O)C5=C4O)C)C)OC)O,323,4265,Ethanol,https://doi.org/10.1039/A605900G,
+cardinalin_2,naphthoquinones,Dermocybe cardinalis,C[C@H]1C[C@@H]2[C@@H]([C@H](O1)C)C(=O)C3=C(C(=C(C=C3[C@@H]2O)OC)C4=C(C=C5C(=C4O)C(=O)C6=C(C5=O)C[C@@H](O[C@@H]6C)C)OC)O,423,2754,Ethanol,https://doi.org/10.1039/A605900G,
+cardinalin_3,naphthoquinones,Dermocybe cardinalis,C[C@H]1CC2=C([C@H](O1)C)C(=O)C3=C(C(=C(C=C3C2=O)OC)C4=C(C=C5C(=C4O)C(=O)C6=C(C5=O)C[C@@H](O[C@@H]6C)C)OC)O,426,2884,Ethanol,https://doi.org/10.1039/A605900G,
+cardinalin_4,naphthoquinones,Dermocybe cardinalis,C[C@H]1C[C@H]2C(=C3C=C(C4=C(C3=C([C@@]2([C@H](O1)C)O)O)OC5=C4C(=O)C6=C(C5=O)C(=O)C7=C(C6=O)[C@H](O[C@H](C7)C)C)OC)O,514; 552; 594,8710; 10000; 6456,Ethanol,https://doi.org/10.1039/A605900G,
+cardinalin_5,naphthoquinones,Dermocybe cardinalis,C[C@H]1C[C@@H]2C(=C3C=C(C4=C(C3=C([C@@]2([C@H](O1)C)O)O)OC5=C4C(=O)C6=C(C5=O)C(=O)C7=C(C6=O)[C@H](O[C@H](C7)C)C)OC)O,515; 554,9550; 7585,Ethanol,https://doi.org/10.1039/A605900G,
+cardinalin_6,naphthoquinones,Dermocybe cardinalis,C[C@H]1CC2=C([C@H](O1)C)C(=O)C3=C4C(=C(C=C3C2=O)OC)C5=C(C6=C(C(=C5O4)O)C(=O)C7=C(C6=O)[C@H](O[C@H](C7)C)C)O,556; 600,5623; 4466,Ethanol,https://doi.org/10.1039/A605900G,
+rumbrin,pyrrol_heterocycles,Auxarthron umbrinum,CC1=C(C=C(OC1=O)/C(=C\C=C\C=C\C=C\C2=C(C=CN2)Cl)/C)OC,442,33800,Methanol,https://doi.org/10.7164/antibiotics.46.888,
+salinixanthin,carotenoids,Salinibacter ruber,CC1=C(C(CCC1=O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@@H](C(C)(C)O[C@H]2[C@@H]([C@H]([C@@H]([C@@H](O2)COC(=O)CCCCCCCCCCCC(C)C)O)O)O)O)/C)/C,480,,Ethanol,https://doi.org/10.1021/jp910845h,spectrum+
+sanguinolentaquinone,indole_heterocycles,Mycena sanguinolenta,O=C1C=C(NCCCO)C2=C(NC=C2CCO)C1=O,531,617,Water,https://doi.org/10.1021/np070179s,spectrum+
+sanguinone_a,indole_heterocycles,Mycena sanguinolenta,C1CN2[C@@H](CC3=C4C2=C5[C@H]1NCN=C5C(=C4N=C3)O)C(=O)O,578,437,Water,https://doi.org/10.1021/np070179s,spectrum+
+sanguinone_b,indole_heterocycles,Mycena sanguinolenta,OC1=C(N=C2)C3=C2C[C@@H](C(O)=O)N4CC[C@H](N[C@H](C)N=C51)C5=C34,571,389,Water,https://doi.org/10.1021/np070179s,spectrum+
+sarcinaxanthin,carotenoids,Micrococcus yunnanensis,C/C(=C\C[C@@H]1C([C@@H](C(=C)CC1)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/[C@H]2C([C@H](CCC2=C)C/C=C(/CO)\C)(C)C)\C)\C)/C)/C)(C)C)/CO,410; 433; 457,,Methanol,https://doi.org/10.5650/jos.59.653,carotenoid derivative
+schleroquinone,naphthoquinones,Gremmeniella abietina,O=C(C(C1=C2OC(C)C1(C)C)=O)C3=C2C(C)=CC(O)=C3C(OC)=O,574,,Methanol,https://doi.org/10.1139/v89-325,
+trypetelone,naphthoquinones,Gremmeniella abietina,CC1C(C2=C(O1)C3=C(C=C(C=C3C)O)C(=O)C2=O)(C)C,525,7413,Methanol,https://doi.org/10.1139/v89-325,
+scleroderris_blue,phenalenones,Gremmeniella abietina,CC1=CC(O)=C2C3=C(C(C(C2=O)=NC4=C(O)C5=C6C(C7=C(C(C)([C@@H](O7)C)C)C(O)=C6C4=O)=C(C=C5O)C)=O)C(O)=C8C([C@@H](OC8=C13)C)(C)C,405; 612,50000,CH2Cl2,https://cdnsciencepub.com/doi/pdf/10.1139/v86-262,unstable
+reduced_scytonemin,indole_heterocycles,Scytonema sp.,O=C(/C(C1=C/2NC3=C1C=CC=C3)=C4C5=C(/C(C\4=O)=C\C6=CC=C(O)C=C6)NC7=C5C=CC=C7)C2=C\C8=CC=C(O)C=C8,378; 474; 572,22000; 14000; 572,THF,https://doi.org/10.1007/BF01923559,
+scytonemin,indole_heterocycles,Scytonema sp.,C1(C2=C3C(=NC4=C3C=CC=C4)\C(\C2=O)=C/C5=CC=C(C=C5)O)=C6C(=NC7=C6C=CC=C7)\C(\C1=O)=C/C8=CC=C(C=C8)O,372,28000,THF,https://doi.org/10.1007/BF01923559,
+sinapaldehyde,tyrosine_heterocycles,Nesocodon mauritianus,COC1=C(O)C(OC)=CC(/C=C/C=O)=C1,344,,Water,https://doi.org/10.1073/pnas.2114420119,343 - protonated; 430 - deprotonated
+siphonaxanthin,carotenoids,Nephroselmis gilva,CC1=C(C(CC(C1)O)(C)C)CC(=O)/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C2C(=CC(CC2(C)C)O)C)/C)/CO,450; 478,,Hexane,https://doi.org/10.1016/S0031-9422(00)82880-0,caroitenoid derivative
+skyrin,anthraquinones,Cyanodermella asteris,CC1=CC2=C(C(=C1)O)C(C3=C(C=C(C(C=4C(=CC(=C5C4C(C=6C=C(C)C=C(C6C5=O)O)=O)O)O)=C3C2=O)O)O)=O,462,23442,Ethanol,https://doi.org/10.1016/j.jbiotec.2017.06.410,spectrum+
+sorbicillin,other_polyketides,Penicillium notatum,C/C=C/C=C/C(=O)C1=C(C(=C(C(=C1)C)O)C)O,316,21379,Ethanol,https://doi.org/10.1021/ja01192a076,spectrum+; EtOH - NaOH: 411 (28183)
+staphyloxanthin,carotenoids,Staphylococcus aureus,CCC(C)CCCCCCCCCCC(=O)OC[C@H]1O[C@@H](OC(=O)C(\C)=C\C=C\C(C)=C\C=C\C(C)=C\C=C\C=C(C)\C=C\C=C(/C)CCC=C(C)C)[C@H](O)[C@@H](O)[C@@H]1O,463; 490,,Acetone,https://doi.org/10.1074/jbc.M505070200,spectrum+
+tambjamine_A,pyrrol_heterocycles,Tambje eliora,COC1=C(NC(=C1)C2=CC=CN2)C=N,397,20000,Methanol,https://doi.org/10.1021/jo00162a003,
+tambjamine_K,pyrrol_heterocycles,Tambja ceutae,CC(C)CCN=CC1=C(C=C(N1)C2=CC=CN2)OC,412,,Methanol,https://doi.org/10.1016/j.bmcl.2010.02.020,
+tambjamine_C,pyrrol_heterocycles,Atapozoa sp.,CC(C)CN=CC1=C(C=C(N1)C2=CC=CN2)OC,405,30500,Methanol,https://doi.org/10.1007/bf01959957,MeOH + NaOH: 368 (17700)
+tambjamine_D,pyrrol_heterocycles,Tambje eliora,CC(C)CN=CC1=C(C=C(N1)C2=C(C=CN2)Br)OC,401,23000,Methanol,https://doi.org/10.1021/jo00162a003,
+tambjamine_F,pyrrol_heterocycles,Atapozoa sp.,COC1=C(NC(=C1)C2=CC=CN2)C=NCCC3=CC=CC=C3,407,32100,Methanol,https://doi.org/10.1007/bf01959957,MeOH + NaOH: 365 (19200)
+tambjamine_E,pyrrol_heterocycles,Atapozoa sp.,CCN=CC1=C(C=C(N1)C2=CC=CN2)OC,405,24700,Methanol,https://doi.org/10.1007/bf01959957,MeOH + NaOH: 363 (14400)
+tambjamine_B,pyrrol_heterocycles,Tambje eliora,COC(C=C(N1)C2=CC=C(Br)N2)=C1C=N,397,20000,Methanol,https://doi.org/10.1021/jo00162a003,
+teloschistin,anthraquinones,Xanthoria sp.,COC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO,437,9772,Methanol,https://doi.org/10.2298/JSC0008555M,
+plectaniaxanthin,carotenoids,Cryptococcus laurentii,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H](C(C)(C)O)O)/C)/C,450;474; 507,,Acetone,https://doi.org/10.1016/S0031-9422(00)94709-5,
+torularhodin,carotenoids,Rhodotorula sp.,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C=C(\C)/C(=O)O)/C)/C,456; 486; 520,,Ethanol,https://doi.org/10.1002/hlca.19460290209,
+toxoflavin,other_heterocycles,Pseudomonas cocovenenans,CN1C2=NC(=O)N(C(=O)C2=NC=N1)C,395,4633,Water,https://doi.org/10.1002/recl.19600790305,
+trichotomine,indole_heterocycles,Clerodendron trichotomum,C1[C@H](N2C(=C/C(=C\3/C=C4C5=C(C[C@H](N4C3=O)C(=O)O)C6=CC=CC=C6N5)/C2=O)C7=C1C8=CC=CC=C8N7)C(=O)O,660,69000,Methanol,https://doi.org/10.1016/S0040-4039(01)82404-7,
+trikendiol,pyrrol_heterocycles,Trikentrion laeve,CCc1c(C)c2c([C@@H](C)C[C@@]2(C)O)c(C)c1C1=C\C(C(=O)N1)=C1\C=C(NC1=O)c1c(C)c2[C@H](C)C[C@](C)(O)c2c(C)c1CC,510,8360,Methanol,https://doi.org/10.1016/S0040-4039(94)85027-5,
+tryptanthrin,other_heterocycles,Wrightia tomentosa,C1=CC=C2C(=C1)C(=O)N3C4=CC=CC=C4C(=O)C3=N2,398,,Chloroform,https://doi.org/10.1016/0031-9422(92)80469-U,
+undecylprodigiosin,pyrrol_heterocycles,Actinomadura madurae,CCCCCCCCCCCC1=CC=C(N1)/C=C\2/C(=CC(=N2)C3=CC=CN3)OC,525,,Ethanol,https://doi.org/10.1128/am.18.1.1-3.1969,acid env
+variegatic_acid_oxidized,pulvinones,Suillus variegatus,O=C(C(O)=C/1)C=CC1=C2C(/C(OC/2=O)=C(C(O)=O)/C3=CC(O)=C(O)C=C3)=O,605,,Water,https://doi.org/10.1039/C1967000373B,unstable
+ventilein_A,other_polyketides,Ventilago calyculata,C[C@H]1CC2=C3C4=C(C(O)=C2[C@H](O1)C)C(C=C5C4=C6C(O3)=CC(C7=C6C(O5)=C8C[C@@H](O[C@@H](C8=C7O)C)C)=O)=O,645,,Methanol,https://doi.org/10.1016/S0031-9422(00)80690-1,
+violacein,indole_heterocycles,Chromobacterium violaceum,OC1=CC=C2NC=C(C3=C\C(C(=O)N3)=C3/C(=O)NC4=CC=CC=C34)C2=C1,373; 580,4313; 12000,Ethanol,https://doi.org/10.1016/S0166-1280(01)00598-X,
+xanthomegnin,naphthoquinones,Penicillium citreo-viride,CC1CC2=CC3=C(C(=C2C(=O)O1)O)C(=O)C(=C(C3=O)OC)C4=C(C(=O)C5=C(C4=O)C(=C6C(=C5)CC(OC6=O)C)O)OC,395,10500,Methanol,https://doi.org/10.1002/cber.19791120319,MeOH - NaOH: 540 (9900); 392 (6000)
+xanthomonadin,polyenes,Xanthomonas juglandis,COC1=C(C=CC(=C1)/C(=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C(=O)O)/Br)Br,430; 453; 482,131500; 109500,Chloroform,https://doi.org/10.1016/S0040-4039(00)92565-6,423; 445 (147500); 473 (122900) in acetone
+xylindein,other_polyketides,Chlorociboria aeruginosa,CCC[C@H]1CC2=C(C(=C3C(=O)C=C4C5=C6C(=CC(=O)C7=C(C8=C(C[C@@H](OC8=O)CCC)C(=C67)O4)O)OC2=C53)O)C(=O)O1,403; 608; 656,,Chloroform,https://doi.org/10.1016/j.chroma.2016.11.026,spectrum+ 
+zeaxanthin,carotenoids,Oscillatoria sp.,CC(\C=C\C=C(C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,452; 479,247; 220,Ethanol,https://doi.org/10.1104/pp.17.3.331,carotenoid derivatives
+ophiuroidine,indole_heterocycles,Ophiocoma risei,C1=CC2=C(C(=C1)O)N=C3C(=O)C4=CC(=C(C=C4N3C2=O)O)O,399,9120,Ethanol,https://doi.org/10.1016/j.tetlet.2007.04.057,EtOH - KOH: 500 (15135)
+phaitanthrin_A,indole_heterocycles,Phaius mishmensis,CC(=O)C[C@@]1(C2=CC=CC=C2N3C1=NC4=CC=CC=C4C3=O)O,330,1023,Chloroform,https://doi.org/10.1021/np800064w,
+phaitanthrin_D,indole_heterocycles,Phaius mishmensis,C1[C@]23[C@@H](C4=CC=CC=C4N2C(=O)C5=CC=CC=C5N3)C(=O)O1,402,708,Methanol,https://doi.org/10.1021/np800064w,
+phaitanthrin_E,indole_heterocycles,Phaius mishmensis,COC(=O)C1=C2NC3=CC=CC=C3C(=O)N2C4=CC=CC=C41,288,4365,Methanol,https://doi.org/10.1021/np800064w,
+phaitanthrin_C,indole_heterocycles,Phaius mishmensis,C1=CC=C2C(=C1)C(=O)N3C4=C(C(=CC=C4)O)C(=O)C3=N2,420,2400,Chloroform,https://doi.org/10.1021/np800064w,
+laetiporic_acid,polyenes,Laetiporus sulfureus,O=C(C)/C(C)=C/C=C/C=C\C=C\C=C\C=C\C=C\C=C\C=C/C=C/C[C@@H](O)CC(O)=O,442,18200,Methanol,https://doi.org/10.1016/j.tetlet.2003.11.073,419 -sh; 461 - sh
+phoenicein,terpenoids,Juniperus phoenicea,CC1=C(C(=O)C(=C(C)C)O1)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O,322,,Methanol,https://doi.org/10.1016/0031-9422(95)00730-X,
+phthiocol,naphthoquinones,Micobacterium tuberculosis,CC1=C(C2=CC=CC=C2C(=O)C1=O)O,385,1412,Ethanol,https://doi.org/10.1016/S0021-9258(18)74730-3,
+chimaphilin,naphthoquinones,Pyrola rotundifolia L.,CC1=CC2=C(C=C1)C(=O)C=C(C2=O)C,339,3311,Methanol,https://doi.org/10.1248/cpb.33.5355,
+7-isopropenyl-4-methylazulen-1-ylmethyl_stearate,azulenes,Lactarius indigo,C(CCCCCCCCCCCCCCCCC)(=O)OCC1=CC=C2C(=CC=C(C=C12)C(=C)C)C,580,18200,THF,https://doi.org/10.1021/acs.jafc.3c02387,spectrum+
+purpurogenone,naphthoquinones,Penicillium purpurogenum,O=C1C2=C(C(O)=CC(C)=C2O)C(C(C3C(O)=C([C@@]4(C5)[C@]6(O)[C@@H]3O)C(C7=C(O)C=C(C)C=C7C4=O)=O)=C1[C@@H]6C5=O)=O,498; 528; 568,2630; 2951; 1862,Chloroform,https://doi.org/10.1039/JR9550002992,
+xanthoherquein,phenalenones,Penicillium atrovenetum G. Smith,CC1=CC(=O)C2=C(C(=C(C3=C2C1=C(C(=C3O)O)O)O)C)O,387,16982,Ethanol,https://doi.org/10.1042/bj0650166,
+herqueinone,phenalenones,Penicillium atrovenetum G. Smith,C[C@@H]1C([C@@]2(C(=C3C(=CC(=O)C4=C3C(=C(C(=C4O)OC)O)C2=O)C)O1)O)(C)C,416,4570,Ethanol,https://doi.org/10.1042/bj0650166,
+kyanomycin,benzanthraquinones,Nonomuria sp. NN 22303,OCCNC1=C2C(C(O)=C3C(C(C4=C(C=CC=C4O)C3=O)=O)=C2O)=C(C(OC)=O)C(CC)=C1,575,11750,Methanol,https://doi.org/10.1021/np9904408,
+mangiferin,xanthones,Mangifera indica L.,C1=C2C(=CC(=C1O)O)OC3=C(C2=O)C(=C(C(=C3)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,365,12500,Water,https://doi.org/10.1016/j.saa.2005.09.009,spectrum+; w - NaOH: 411 (27500)
+atrovenetin,phenalenones,Penicillium atrovenetum G. Smith,C[C@@H]1C(C2=C(C3=C4C(=C2O1)C(=CC(=O)C4=C(C(=C3O)O)O)C)O)(C)C,385,16218,Ethanol,https://doi.org/10.1042/bj0650166,
+austocystin_A,xanthones,Aspergillus ustus,COC1=C(C=CC2=C1C(=O)C3=C(C4=C(C=C3O2)O[C@@H]5[C@H]4C=CO5)OC)Cl,335,5623,Chloroform,https://doi.org/10.1039/P19740002250,
+austocystin_F,xanthones,Aspergillus ustus,C1=CC(=C2C(=C1)OC3=CC4=C(C(=C3C2=O)O)[C@@]5(C=CO[C@@H]5O4)O)O,368,4786,Chloroform,https://doi.org/10.1039/P19740002250,
+chaetoxanthone_C,xanthones,Chaetomium sp.,C[C@@H]1CCC[C@@H](O1)C2=C(C(=C3C(=C2O)C(=O)C4=C(O3)C=CC=C4OC)Cl)O,327,14454,Acetonitrile,https://doi.org/10.1021/np800294q,
+conioxanthone_A,xanthones,Coniochaeta sp.,COC(=O)C1=C2C(=CC(=C1)O)OC3=CC(=CC(=C3C2=O)O)CO,357,933,Methanol,https://doi.org/10.1021/np100071z,
+chaetominedione,quinoline_heterocycles,Chaetomium sp.,C1=CC2=CC3=C(NC(=O)C(=C3N=C2C=C1)C4=CC=C(O4)CO)O,378,19952,Methanol,https://doi.org/10.1016/j.tetlet.2008.08.064,
+globosuxanthone_A,xanthones,Chaetomium globosum,COC(=O)[C@@]1([C@@H](C=CC2=C1C(=O)C3=C(C=CC=C3O2)O)O)O,344,29512,Methanol,https://doi.org/10.1016/j.bmc.2006.07.048,
+globosuxanthone_C,xanthones,Chaetomium globosum,COC1=C(C2=C(C=C1)OC3=CC=CC(=C3C2=O)O)O,404,23442,Methanol,https://doi.org/10.1016/j.tetlet.2008.08.064,
+globosuxanthone_D,xanthones,Chaetomium globosum,C1=CC(=C2C(=C1)OC3=CC=CC(=C3C2=O)O)C(=O)O,363,28183,Methanol,https://doi.org/10.1016/j.tetlet.2008.08.064,
+chaetoviridin_A,azaphilones,Chaetomium globosum var. flavo-viridae,CC[C@H](C)/C=C/C1=CC2=C(C(=O)[C@@]3(C(=C(C(=O)O3)C(=O)[C@@H](C)[C@@H](C)O)C2=CO1)C)Cl,450,4677,Chloroform,https://doi.org/10.1248/cpb.38.625,
+chaetoviridin_C,azaphilones,Chaetomium globosum var. flavo-viridae,CC[C@H](C)/C=C/C1=CC2=C(C(=O)[C@@]3([C@H](C2=CO1)[C@@H](C(=O)O3)C(=O)[C@@H](C)[C@H](C)O)C)Cl,386; 406; 430,14125; 12589; 5495 ,Chloroform,https://doi.org/10.1248/cpb.38.625,
+chaetomugilin_D,azaphilones,Chaetomium globosum,CC[C@H](C)/C=C/C1=CC2=C(C(=O)[C@@]3([C@H](C2=CO1)[C@H]4C(=O)O[C@@H]([C@H]([C@]4(O3)O)C)C)C)Cl,403,8317,Ethanol,https://doi.org/10.1038/ja.2008.81,
+chaetomugilin_E,azaphilones,Chaetomium globosum,CC[C@H](C)/C=C/C1=CC2=C(C(=O)[C@@]3([C@H](C2=CO1)[C@H]4C(=O)O[C@@H]([C@H]([C@]4(O3)OC)C)C)C)Cl,400,7943,Ethanol,https://doi.org/10.1038/ja.2008.81,
+chaetomugilin_F,azaphilones,Chaetomium globosum,CC[C@H](C)/C=C/C1=CC2=C(C(=O)[C@@]3([C@H](C2=CO1)C4=C(O3)[C@@H]([C@H](OC4=O)C)C)C)Cl,410,6606,Ethanol,https://doi.org/10.1038/ja.2008.81,
+chaetoviridin_D,azaphilones,Chaetomium globosum var. flavo-viridae,C[C@H](/C=C/C1=CC2=C(C(=O)[C@@]3([C@H](C2=CO1)[C@@H](C(O3)(C(C)C(C)O)O)C(=O)O)C)Cl)[C@@H](C)O,395; 410; 430,16218; 13803; 6165,Chloroform,https://doi.org/10.1248/cpb.38.625,
+mycoxanthone,xanthones,Mycosphaerella rosigena,COC1=C(C2=C(C=C1)OC3=CC=CC(=C3C2=O)O)C(=O)OC,386,17800,Ethanol,https://doi.org/10.1016/0031-9422(79)80077-1,
+ravenelin,xanthones,Exserohilum rostratum,CC1=CC(=C2C(=C1O)OC3=CC=CC(=C3C2=O)O)O,397,,Water,https://doi.org/10.3390/molecules26113339,spectrum+
+muscaflavin,tyrosine_heterocycles,Amanita muscaria,C1C(NC(=CC=C1C=O)C(=O)[O-])C(=O)[O-],420,,Water,https://doi.org/10.1016/S0040-4020(01)99498-0,spectrum+
+betanin,tyrosine_heterocycles,Beta vulgaris,C1[C@H](N=C(C=C1/C=C/N2[C@@H](CC3=CC(=C(C=C32)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)C(=O)O)C(=O)O)C(=O)O,535,65000,Water,https://doi.org/10.1016/j.jphotochem.2007.07.038,spectrum+
+betalamic_acid,tyrosine_heterocycles,Beta vulgaris,C\1[C@H](NC(=C/C1=C/C=O)C(=O)O)C(=O)O,424,24000,Water,https://doi.org/10.1016/j.jphotochem.2007.07.038,spectrum+
+betanidin,tyrosine_heterocycles,Beta vulgaris,C1[C@H](N=C(C=C1/C=C/N2[C@@H](CC3=CC(=C(C=C32)O)O)C(=O)O)C(=O)O)C(=O)O,542,54000,Water,https://doi.org/10.1016/j.jphotochem.2007.07.038,
+muscapurpurin,tyrosine_heterocycles,Amanita muscaria,C\1[C@H](NC(=C/C1=C/C=[N+]2[C@@H](CC3=C2C(=O)OC(=C3)C(=O)O)C(=O)[O-])C(=O)O)C(=O)O,540,,Water,https://doi.org/10.1016/S0040-4020(01)99498-0,spectrum+
+vulgaxanthin_II,tyrosine_heterocycles,Beta vulgaris,C\1C(NC(=C/C1=C\C=NC(CCC(=O)O)C(=O)O)C(=O)O)C(=O)O,475,,Water,https://doi.org/10.1016/S0040-4020(01)99498-0,spectrum+
+muscaaurin_I,tyrosine_heterocycles,Amanita muscaria,C\1[C@H](NC(=C/C1=C/C=N[C@@H](C2=CC(=O)NO2)C(=O)O)C(=O)O)C(=O)O,475,,Water,https://doi.org/10.1016/S0040-4020(01)99498-0,spectrum+
+rubroflavin,diazo_compounds,Calvatia rubro-flava,CSC1=C(C(=CC(=C1)O)[S@@](=O)C)N=NC(=O)N,435,10715,Methanol,https://doi.org/10.1002/1099-0690(200108)2001:16<3097::AID-EJOC3097>3.0.CO;2-V,
+R-hydroxyethylcanthine-6-one,indole_heterocycles,Ailanthus altissima,O=C1N2C3=CC=CC=C3C4=C2C(C=C1[C@H](O)C)=NC=C4,359; 375,20892; 18600,Methanol,https://doi.org/10.3390/molecules21050642,spectrum+
+aurantricholone,tropolones,Tricholoma aurantium,C1=CC=C(C=C1)C2=C(/C(=C/C3=CC4=C(C(=C(C=C4/C=C\5/C(=C(C(=O)O5)C6=CC=CC=C6)O)O)O)C(=O)C(=C3)O)/OC2=O)O,440,19498,Methanol,https://doi.org/10.1002/(SICI)1099-0690(200002)2000:4<603::AID-EJOC603>3.0.CO;2-5,
+aurantricholide_A,pyranones,Tricholoma aurantium,C1=CC=C(C=C1)C2=C3C(=CC4=CC(=C(C=C4O3)O)O)OC2=O,412; 482,,Methanol,https://doi.org/10.1002/(SICI)1099-0690(200002)2000:4<603::AID-EJOC603>3.0.CO;2-5,
+aurantricholide_B,pyranones,Tricholoma aurantium,C1=CC(=CC=C1C2=C3C(=CC4=CC(=C(C=C4O3)O)O)OC2=O)O,416,21037,Methanol,https://doi.org/10.1002/(SICI)1099-0690(200002)2000:4<603::AID-EJOC603>3.0.CO;2-5,
+hispidin,pyranones,Cylindrocarpon ianthothele,C1=CC(=C(C=C1/C=C/C2=CC(=CC(=O)O2)O)O)O,371,,Methanol,https://doi.org/10.1007/s10295-003-0101-x,
+xerulin,polyenes,Xerula melanotricha,C/C=C/C#CC#C/C=C/C=C/C=C/C=C\1/C=CC(=O)O1,400; 412,,Methanol,https://doi.org/10.7164/antibiotics.43.1413,
+xerulinic_acid,polyenes,Xerula melanotricha,C\1=CC(=O)O/C1=C\C=C\C=C\C=C\C#CC#C/C=C/C(=O)O,416; 432,75857; 28840,Methanol,https://doi.org/10.7164/antibiotics.43.1413,
+mycenarubin_A,indole_heterocycles,Mycena rosea,C1[C@H](N(C2=CC(=O)C(=O)C3=C2C1=CN3)CCCN)C(=O)O,539,660,Water,https://doi.org/10.1002/ejoc.200600826,
+atromentin,terphenyls,Paxillus atrotomentosus,C1=CC(=CC=C1C2=C(C(=O)C(=C(C2=O)O)C3=CC=C(C=C3)O)O)O,385,5623,Dioxane,https://doi.org/10.1002/jps.2600560904,
+mitorubrin,azaphilones,PenicillIum rubrum,C/C=C/C1=CC2=CC(=O)[C@@](C(=O)C2=CO1)(C)OC(=O)C3=C(C=C(C=C3C)O)O,346,16100,Methanol,https://doi.org/10.1021/ja01093a036,
+spiromentin_A,terphenyls,Paxillus atrotomentosus,O=C(C(C(C1=CC=C(O)C=C1)=C2O3)=O)C(C4=CC=C(O)C=C4)=C2OC3(O/5)C=CC5=C\C,382; 550,1412; 3467,Ethanol,https://doi.org/10.1002/jlac.198919890228,
+flavomentin_A,terphenyls,Paxillus atrotomentosus,O=C(C(OC(/C=C\[C@H]1[C@@H](O1)C)=O)=C(C2=CC=C(O)C=C2)C3=O)C(C4=CC=C(O)C=C4)=C3OC(/C=C\[C@H]5[C@H](C)O5)=O,371,,Ethanol,https://doi.org/10.1002/jlac.198919890228,EtOH - NaOH: 485 (5600)
+cycloleucomelone,terphenyls,Boletopsis leucomelaena,O=C(C(C1=CC=C(O)C=C1)=C2O)C3=C(C4=CC(O)=C(O)C=C4O3)C2=O,420,3981,Methanol,https://doi.org/10.1515/znb-1987-1021,
+thelephoric_acid,terphenyls,Suillus grevillei,C1=C2C(=CC(=C1O)O)OC3=C2C(=O)C4=C(C3=O)C5=CC(=C(C=C5O4)O)O,495,12882,Pyridine,https://doi.org/10.1002/jps.2600560904,
+phlebiarubrone,terphenyls,Phlebia strigozonata,C1OC2=C(C(=O)C(=O)C(=C2O1)C3=CC=CC=C3)C4=CC=CC=C4,465,3500,Ethanol,https://doi.org/10.1016/S0040-4039(01)90632-X,
+atromentic_acid,pulvinones,Clitocybe illudens,OC(/C(C1=CC=C(O)C=C1)=C2OC(C(C3=CC=C(O)C=C3)=C/2O)=O)=O,400,7413,Ethanol,https://doi.org/10.1016/S0031-9422(00)97384-9,EtOH - NaOH: 362 (13183)
+xerocomic_acid,pulvinones,Suillus Gary,OC(/C(C1=CC=C(O)C=C1)=C2OC(C(C3=CC=C(O)C(O)=C3)=C/2O)=O)=O,405,10471,Ethanol,https://doi.org/10.1016/j.tetlet.2004.12.048,
+phlebopyrone,pulvinones,Phlebopus portentosus,OC1=CC=C(C2=C(O)C(C3=CC=C(O)C=C3)=COC2=O)C=C1,328,2951,Methanol,https://doi.org/10.1007/s11557-020-01643-y,
+pinastric_acid,pulvinones,Parmelia caperata (L.) Arch.,COC1=CC=C(C=C1)C2=C(/C(=C(/C3=CC=CC=C3)\C(=O)OC)/OC2=O)O,383,8000,Methanol,https://doi.org/10.1080/14786410701194484,
+variegatic_acid,pulvinones,Caloboletus calopus,C1=CC(=C(C=C1C2=C(/C(=C(/C3=CC(=C(C=C3)O)O)\C(=O)O)/OC2=O)O)O)O,408,8709,Ethanol,https://doi.org/10.1016/j.tetlet.2004.12.048,
+grevillin_A,pulvinones,Suillus grevillei,O=C(/C(O1)=C/C2=CC=C(O)C=C2)C(C3=CC=C(O)C=C3)=C(O)C1=O,389,16982,Methanol,https://link.springer.com/book/10.1007/978-3-7091-6971-1,
+grevillin_B,pulvinones,Suillus grevillei,O=C(/C(O1)=C/C2=CC(O)=C(O)C=C2)C(C3=CC=C(O)C=C3)=C(O)C1=O,396,15848,Methanol,https://link.springer.com/book/10.1007/978-3-7091-6971-1,
+grevillin_C,pulvinones,Suillus grevillei,O=C(/C(O1)=C/C2=CC(O)=C(O)C=C2)C(C3=CC(O)=C(O)C=C3)=C(O)C1=O,406,16982,Methanol,https://link.springer.com/book/10.1007/978-3-7091-6971-1,
+grevillin_D,pulvinones,Suillus grevillei,O=C(/C(O1)=C/C2=CC(O)=C(O)C=C2)C(C3=CC(O)=CC=C3O)=C(O)C1=O,409,15135,Methanol,https://link.springer.com/book/10.1007/978-3-7091-6971-1,
+anhydrogrevillin_D,pulvinones,Suillus americanus,O=C(/C(O1)=C/C2=CC(O)=C(O)C=C2)C(C3=CC(O)=CC=C3O4)=C4C1=O,439,22387,Methanol,https://link.springer.com/book/10.1007/978-3-7091-6971-1,
+gomphilactone,pulvinones,Cortinarius violaceus,O=C(/C1=C2C=CC(O\2)=O)OC3=C1C=C(O)C(O)=C3,476,8317,Methanol,https://doi.org/10.1002/ejoc.201101215,
+xerocomorubin,pulvinones,Serpula lacrymans S7.9,OC1=C(C(O/C1=C2C(OC3=CC(O)=C(C=C3/2)O)=O)=O)C4=CC=C(O)C=C4,499,4265,Ethanol,https://doi.org/10.1515/znb-1974-1-230,
+variegatorubin,pulvinones,Serpula lacrymans S7.9,OC1=C(C(O/C1=C2C(OC3=CC(O)=C(C=C3/2)O)=O)=O)C4=CC(O)=C(O)C=C4,510,22000,Ethanol,https://doi.org/10.1515/znb-1980-0529,
+badione_A,pulvinones,Pisolithus arrhizus (Scop.) Rauschert,C1=CC(=CC=C1/C(=C\2/C(=C(C(=O)O2)C3=CC4=C5C(=C3)C(=O)C(=O)OC5=C(C=C4C6=C(/C(=C(/C7=CC=C(C=C7)O)\C(=O)O)/OC6=O)O)O)O)/C(=O)O)O,368; 482,,Methanol,https://doi.org/10.1002/ange.19840960619,
+norbadione_A,pulvinones,Pisolithus arrhizus (Scop.) Rauschert,C1=CC(=CC=C1/C(=C\2/C(=C(C(=O)O2)C3=CC4=C5C(=C3)C(=O)OC5=C(C=C4C6=C(/C(=C(/C7=CC=C(C=C7)O)\C(=O)O)/OC6=O)O)O)O)/C(=O)O)O,367; 406,,Methanol,https://doi.org/10.1002/ange.19840960619,
+melanocrocin,polyenes,Melanogaster broomeianus,O=C(OC)[C@@H](CC1=CC=CC=C1)NC(C/C=C/C=C/C=C/C=C/C=C/C=C/C=C(C)/C(C)=O)=O,404,20276,Methanol,https://doi.org/10.1515/znc-2001-7-803,
+betulinan_A,terphenyls,Lenzites betulinus,COC1=C(C(=O)C(=C(C1=O)C2=CC=CC=C2)OC)C3=CC=CC=C3,323,6000,Ethanol,https://doi.org/10.1021/np960253z,
+fomentariol,tropolones,Fomes fomentarius,C1=CC2=C(C(=C(C(=C2C(=O)C(=C1/C=C/CO)O)O)O)O)/C=C/CO,460,2360,Methanol,https://doi.org/10.1016/0031-9422(74)85123-X,
+cinnabarinic_acid,phenoxazinones,Polystictus sanguineus,C1=CC(=C2C(=C1)OC3=CC(=O)C(=C(C3=N2)C(=O)O)N)C(=O)O,442,22387,Pyridine,https://doi.org/10.3891/acta.chem.scand.11-1485,spectrum+
+xylerythrin,terphenyls,Peniophora sanguinea,O=C1C(C2=CC=CC=C2)=C(C(C(C3=CC=CC=C3)=C1O)=C4C5=CC=C(O)C=C5)OC4=O,437,19498,Dioxane,https://doi.org/10.3891/acta.chem.scand.33b-0006,
+peniophorin,terphenyls,Peniophora affinis Burt,O=C1C(C2=CC=CC=C2)=C(C(C(C3=CC=C(O)C=C3)=C1O)=C4C5=CC=C(O)C=C5)OC4=O,453,21379,Dioxane,https://doi.org/10.3891/acta.chem.scand.24-3449,
+anigorufon,phenalenones,Musa acuminata var. pisang sipulu,C1=CC=C(C=C1)C2=C3C4=C(C=CC=C4C=C(C3=O)O)C=C2,330; 355; 364,,Ethanol,https://doi.org/10.1016/S0031-9422(96)00796-0,
+resistomycin,other_polyketides,Streptomyces griseoincarnatus,CC1=CC(=O)C2=C(C3=C4C5=C2C1=C(C=C5C(C(=C4C(=O)C=C3O)O)(C)C)O)O,457,14029,Ethanol,https://doi.org/10.1007/s12275-011-1260-5,
+exophialin,indole_heterocycles,Exophiala dermatitidis,OC1=CC=CC(C(C(OC2=O)=C3)=C2C4=CNC5=CC=CC=C54)=C1C3=O,525,3548,Methanol,https://doi.org/10.1002/ejoc.200901311,spectrum+
+8-hydroxyexophialin,indole_heterocycles,Exophiala dermatitidis,O=C(C1=C2C=C(O)C=C1O)C=C(OC3=O)C2=C3C4=CNC5=CC=CC=C54,501,5623,Methanol,https://doi.org/10.1002/ejoc.200901311,spectrum+
+6-deoxyexophialin,indole_heterocycles,Exophiala dermatitidis,O=C(C1=C2C=CC=C1)C=C(OC3=O)C2=C3C4=CNC5=CC=CC=C54,492,204,Methanol,https://doi.org/10.1002/ejoc.200901311,spectrum+
+resomycin_A,anthracyclinones,Streptomyces sp. GW71/2497,C[C@]1(CCC2=C(C3=C(C=C2[C@@H]1C(=O)OC)C(=O)C4=C(C3=O)C(=CC=C4)O)O)O,435,7585,Chloroform,https://doi.org/10.7164/antibiotics.56.795,
+resomycin_B,anthracyclinones,Streptomyces sp. GW71/2497,CC1=C(C2=CC3=C(C(=C2CC1)O)C(=O)C4=C(C3=O)C=CC=C4O)C(=O)OC,445,9120,Chloroform,https://doi.org/10.7164/antibiotics.56.795,
+resomycin_C,anthracyclinones,Streptomyces sp. GW71/2497,CC1=C(C2=CC3=C(C(=C2C=C1)O)C(=O)C4=C(C3=O)C=CC=C4O)C(=O)OC,451,9332,Chloroform,https://doi.org/10.7164/antibiotics.56.795,
+boshramycinone_A,anthracyclinones,"Streptomyces sp. Mei 16-1,2",CC1=CC2=CC3=C(C(=C2C=C1)O)C(=O)C4=C(C3=O)C=CC=C4O,452,,Methanol,https://doi.org/10.1080/14786419.2019.1645658,
+boshramycinone_B,anthracyclinones,"Streptomyces sp. Mei 16-1,2",CC1=CC2=CC3=C(C(=C2C=C1)O)C(=O)C4=C(C3=O)C(=CC=C4)O,451,,Methanol,https://doi.org/10.1080/14786419.2019.1645658,
+boshramycinone_C,anthracyclinones,"Streptomyces sp. Mei 16-1,2",C[C@]1(C[C@@H](C2=C(C3=C(C=C2C1)C(=O)C4=C(C3=O)C(=CC=C4)O)O)O)O,430,,Methanol,https://doi.org/10.1080/14786419.2019.1645658,
+e_rhodomycinone,anthracyclinones,Nonomuraea rhodomycinica NR4-ASC07,CC[C@]1(C[C@@H](C2=C([C@H]1C(=O)OC)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4O)O)O)O,467; 488; 496; 531,2137; 2454; 2511; 1949,Methanol,https://doi.org/10.1080/14786419.2018.1440223,
+limamycin_B,angucyclinones,Streptomyces sp. ICBB8309,CC1=CC2=C3C(=C1)N4C(C5=C(C4=C3C(=O)C=C2)C=CC=C5OC)O,463,1819,Methanol,https://doi.org/10.1038/ja.2008.61,
+oviedomycin,angucyclinones,Streptomyces antibioticus ATCC11891,CC1=C(C2=CC(=C3C(=C2C(=O)C1=O)C(=O)C4=C(C3=O)C(=CC=C4)O)O)O,473,3600,Methanol,https://doi.org/10.1021/np010555n,
+chlorocyclinone_D,angucyclinones,Streptomyces sp. DSM 17045,CC1C2=C(C3=C(C=C2C(=O)O1)C(=O)C4=C5C(=CC(=C4C3=O)O)C=C(C(=C5OC)Cl)C)O,504,2691,Methanol,https://doi.org/10.1021/np070498j,
+marmycin_A,angucyclinones,Streptomyces sp. CNH990,C[C@@H]1[C@H](C2(C[C@@H](O1)C3=C(N2)C4=C(C=C3)C(=O)C5=C(C4=O)C=CC6=C5C=CC(=C6)C)C)O,523,281,Methanol,https://doi.org/10.1021/np060621r,
+marmycin_B,angucyclinones,Streptomyces sp. CNH990,C[C@@H]1[C@H](C2(C[C@@H](O1)C3=CC(=C4C(=C3N2)C(=O)C5=C(C4=O)C6=C(C=C5)C=C(C=C6)C)Cl)C)O,509,144,Methanol,https://doi.org/10.1021/np060621r,
+hatomarubigin_D,angucyclinones,Streptomyces sp. 2238-SVT4,C[C@@H]1C[C@@H](C2=C(C1)C=CC3=C2C(=O)C4=C(C(=CC(=C4C3=O)OC)CC5=CC(=C6C(=C5O)C(=O)C7=C(C6=O)C=CC8=C7[C@H](C[C@H](C8)C)O)OC)O)O,473,11500,Dioxane,https://doi.org/10.7164/antibiotics.44.1179,dimerization enzyme may be useful
+isoprekinamycin,angucyclinones,Streptomyces murayamaensis,CC1=CC2=C(C(=C1)O)C3=C(C4=C(C3=O)C=CC=C4O)C(=O)C2=[N+]=[N-],485,,Water,https://doi.org/10.1021/ja0167809,HPLC: wat/acn/AcOH(0.1%)
+galtamycinone,angucyclinones,Micromonospora sp. Tu6368,C[C@@H]1[C@H]([C@@H](C[C@@H](O1)C2=C(C3=C(C=C2)C(=O)C4=C(C3=O)C=C5C(=CC(=CC5=C4O)C)O)O)O)O,490,18800,Ethanol,https://doi.org/10.1016/0031-9422(88)80777-5,galtamycinone data is not available but it is availbale for a closely related compound
+jadomycin_B,angucyclinones,Streptomyces venezuelae ISP5230,CCC(C)C1C(=O)OC2N1C3=C(C4=C2C=C(C=C4O)C)C(=O)C5=C(C3=O)C(=CC=C5)OC6CC(C(C(O6)C)O)O,533,900,Methanol,https://doi.org/10.1021/ja031724o,
+urdamycin_C,angucyclinones,Streptomyces fradiae Tu2717,C[C@H]1O[C@H](C[C@@H](O)[C@@H]1O)C1=CC2=C(C(=O)OC3=C2C(=C1O)C(=O)C1=C3[C@@]2(O)C(=O)C[C@](C)(O)C[C@@]2(O)C=C1)C1=CC=C(O)C=C1,510,12600,Methanol,https://doi.org/10.7164/antibiotics.39.1657,aglycones only
+urdamycin_D,angucyclinones,Streptomyces fradiae Tu2717,C[C@H]1O[C@H](C[C@@H](O)[C@@H]1O)C1=CC2=C(C3=CNC4=CC=CC=C34)C(=O)OC3=C2C(=C1O)C(=O)C1=C3[C@@]2(O)C(=O)C[C@](C)(O)C[C@@]2(O)C=C1,575,11200,Methanol,https://doi.org/10.7164/antibiotics.39.1657,aglycones only
+urdamycin_H,angucyclinones,Streptomyces fradiae Tu2717,C[C@H]1O[C@H](C[C@@H](O)[C@@H]1O)C1=CC2=C(OC3=C2C(=C1O)C(=O)C1=C3[C@@]2(O)C(=O)C[C@](C)(O)C[C@@]2(O)C=C1)C1=CC=C(O)C=C1,490,14800,Methanol,https://doi.org/10.7164/antibiotics.42.1482,MeOH-HCl: 486 (16800); MeOH-NaOH: 563 (17800)
